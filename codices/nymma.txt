@@ -1,0 +1,1321 @@
+--- MANUAL ---
+[1. DETECTED MORPHOLOGY (Structural & Probabilistic Mapping)]
+   --- PREFIXES (Start of word) ---
+   [Pattern: CC-]
+      hy-     -> [pr- (47%), bo- (14%), ch- (10%)]        (Found in 35 words)
+      ly-     -> [sp- (32%), cr- (23%), co- (12%)]        (Found in 35 words)
+      ky-     -> [co- (45%), re- (34%), sa- (6%)]         (Found in 30 words)
+      ny-     -> [di- (39%), un- (20%), de- (13%)]        (Found in 29 words)
+      sy-     -> [es- (16%), an- (16%), fa- (16%)]        (Found in 29 words)
+      ty-     -> [fo- (33%), fi- (33%), ap- (22%)]        (Found in 14 words)
+   [Pattern: CCC-]
+      nyw-    -> [veh- (36%), dis- (18%), all- (9%)]      (Found in 8 words)
+   [Pattern: CCV-]
+      lye-    -> [cre- (55%), spa- (18%), sou- (18%)]     (Found in 12 words)
+      hye-    -> [pri- (50%), pro- (43%), pre- (7%)]      (Found in 10 words)
+      sya-    -> [ana- (25%), enl- (25%), eve- (25%)]     (Found in 8 words)
+      kya-    -> [rev- (72%), res- (17%), com- (6%)]      (Found in 7 words)
+   [Pattern: CV-]
+      de-     -> [la- (18%), be- (16%), it- (12%)]        (Found in 53 words)
+      be-     -> [ma- (17%), in- (11%), no- (8%)]         (Found in 52 words)
+      fe-     -> [yo- (18%), wi- (15%), ti- (8%)]         (Found in 44 words)
+      ne-     -> [an- (48%), th- (26%), tr- (12%)]        (Found in 44 words)
+      me-     -> [su- (24%), de- (17%), ta- (15%)]        (Found in 33 words)
+      re-     -> [yo- (29%), wh- (26%), al- (11%)]        (Found in 31 words)
+      le-     -> [co- (33%), sh- (28%), si- (19%)]        (Found in 25 words)
+      ke-     -> [re- (50%), bu- (28%), ra- (10%)]        (Found in 24 words)
+      se-     -> [el- (48%), ea- (19%), eg- (11%)]        (Found in 23 words)
+      ge-     -> [ca- (38%), ba- (24%), pl- (12%)]        (Found in 21 words)
+      te-     -> [fe- (24%), ex- (21%), fi- (21%)]        (Found in 13 words)
+      bë-     -> [im- (72%), li- (11%), at- (6%)]         (Found in 12 words)
+      gë-     -> [pe- (87%), ca- (7%), be- (7%)]          (Found in 11 words)
+      lë-     -> [se- (65%), co- (24%), sh- (12%)]        (Found in 11 words)
+      fë-     -> [on- (68%), of- (16%), va- (5%)]         (Found in 7 words)
+      rë-     -> [wa- (44%), vo- (22%), do- (11%)]        (Found in 7 words)
+   [Pattern: CVC-]
+      dew-    -> [lay- (65%), siz- (15%), sho- (6%)]      (Found in 11 words)
+      rew-    -> [you- (69%), yie- (6%), wor- (6%)]       (Found in 9 words)
+      bew-    -> [oth- (26%), onl- (26%), ban- (16%)]     (Found in 7 words)
+   [Pattern: CVV-]
+      nea-    -> [the- (67%), thi- (15%), thr- (10%)]     (Found in 15 words)
+      fea-    -> [tim- (47%), obs- (12%), tig- (12%)]     (Found in 9 words)
+      deo-    -> [bei- (38%), sam- (19%), sca- (12%)]     (Found in 9 words)
+      fei-    -> [bro- (38%), ori- (23%), wel- (23%)]     (Found in 9 words)
+      rea-    -> [vis- (25%), doc- (17%), vie- (17%)]     (Found in 9 words)
+      deu-    -> [sel- (31%), kno- (23%), see- (15%)]     (Found in 8 words)
+      mei-    -> [sup- (38%), sur- (25%), sus- (25%)]     (Found in 8 words)
+      meu-    -> [tas- (41%), def- (35%), tea- (12%)]     (Found in 8 words)
+      bei-    -> [awa- (38%), imp- (25%), mak- (12%)]     (Found in 8 words)
+      beo-    -> [ind- (30%), muc- (20%), inc- (20%)]     (Found in 7 words)
+      neo-    -> [tra- (83%), det- (17%)]                 (Found in 7 words)
+      nei-    -> [des- (44%), der- (33%), tra- (22%)]     (Found in 7 words)
+   [Pattern: VC-]
+      ey-     -> [th- (23%), ma- (15%), me- (11%)]        (Found in 75 words)
+      ay-     -> [ar- (23%), ha- (14%), hi- (9%)]         (Found in 56 words)
+   [Pattern: VCC-]
+      eyt-    -> [tha- (52%), the- (15%), bot- (8%)]      (Found in 18 words)
+      eyn-    -> [men- (27%), met- (17%), mat- (17%)]     (Found in 17 words)
+      ayl-    -> [fun- (24%), fou- (17%), fre- (14%)]     (Found in 16 words)
+      eym-    -> [mag- (33%), man- (22%), low- (17%)]     (Found in 15 words)
+      ays-    -> [hig- (24%), imp- (20%), ass- (20%)]     (Found in 15 words)
+      eyd-    -> [lif- (26%), lin- (17%), som- (13%)]     (Found in 12 words)
+      eys-    -> [mor- (26%), suc- (23%), mos- (20%)]     (Found in 11 words)
+      aym-    -> [giv- (40%), geo- (27%), gen- (13%)]     (Found in 8 words)
+      ayn-    -> [hav- (59%), gra- (12%), art- (12%)]     (Found in 7 words)
+
+   --- SUFFIXES (End of word) ---
+   [Pattern: -CC]
+      -sh     -> [-ng (46%), -ed (36%), -as (4%)]         (Found in 129 words)
+      -dy     -> [-ts (25%), -es (12%), -ir (12%)]        (Found in 28 words)
+      -ym     -> [-ne (22%), -me (15%), -re (12%)]        (Found in 22 words)
+      -yl     -> [-al (34%), -ut (10%), -rm (7%)]         (Found in 21 words)
+      -yn     -> [-nd (76%), -es (4%), -ar (3%)]          (Found in 21 words)
+      -yr     -> [-ll (17%), -ry (12%), -th (10%)]        (Found in 21 words)
+      -ys     -> [-ts (21%), -nd (16%), -st (12%)]        (Found in 20 words)
+      -ny     -> [-ll (24%), -ay (13%), -fe (13%)]        (Found in 18 words)
+      -hy     -> [-ns (23%), -ld (20%), -ly (20%)]        (Found in 14 words)
+      -sy     -> [-es (31%), -it (23%), -ut (8%)]         (Found in 12 words)
+      -th     -> [-ll (28%), -se (22%), -al (11%)]        (Found in 11 words)
+      -tt     -> [-ut (46%), -al (12%), -ns (8%)]         (Found in 10 words)
+      -yd     -> [-nt (35%), -xt (12%), -ss (12%)]        (Found in 8 words)
+      -gy     -> [-ur (36%), -er (29%), -es (24%)]        (Found in 8 words)
+   [Pattern: -CCC]
+      -kny    -> [-ill (44%), -ion (20%), -not (8%)]      (Found in 9 words)
+      -shy    -> [-uld (25%), -lly (25%), -eld (12%)]     (Found in 8 words)
+      -ggy    -> [-our (36%), -yer (29%), -ges (24%)]     (Found in 8 words)
+      -mdy    -> [-ncy (33%), -ful (11%), -les (11%)]     (Found in 7 words)
+      -nny    -> [-ife (46%), -orm (15%), -ifs (8%)]      (Found in 7 words)
+   [Pattern: -CCV]
+      -dse    -> [-ion (97%), -ize (3%)]                  (Found in 27 words)
+      -lse    -> [-dow (33%), -ese (24%), -orm (14%)]     (Found in 9 words)
+      -hda    -> [-ric (15%), -ose (15%), -ils (15%)]     (Found in 9 words)
+      -mma    -> [-hey (57%), -elf (10%), -ple (10%)]     (Found in 8 words)
+      -nne    -> [-ven (20%), -ths (20%), -ric (10%)]     (Found in 8 words)
+      -dde    -> [-hat (36%), -ely (14%), -dic (14%)]     (Found in 7 words)
+      -dne    -> [-ect (33%), -ems (22%), -ion (11%)]     (Found in 7 words)
+   [Pattern: -CV]
+      -se     -> [-on (59%), -ow (11%), -se (8%)]         (Found in 41 words)
+      -de     -> [-re (32%), -ve (17%), -nd (10%)]        (Found in 29 words)
+      -da     -> [-ew (17%), -ic (9%), -er (9%)]          (Found in 23 words)
+      -sa     -> [-ne (22%), -an (15%), -me (12%)]        (Found in 23 words)
+      -ne     -> [-ct (14%), -en (9%), -ms (9%)]          (Found in 18 words)
+      -na     -> [-go (22%), -al (14%), -en (11%)]        (Found in 16 words)
+      -ha     -> [-es (29%), -ds (14%), -rm (7%)]         (Found in 10 words)
+      -ma     -> [-ey (57%), -lf (10%), -le (10%)]        (Found in 8 words)
+      -he     -> [-ns (20%), -ic (20%), -ts (20%)]        (Found in 8 words)
+   [Pattern: -CVCC]
+      -yesh   -> [-sted (13%), -deed (13%), -aled (7%)]   (Found in 13 words)
+      -yash   -> [-ting (31%), -ning (31%), -wing (8%)]   (Found in 10 words)
+      -sesh   -> [-shed (30%), -rved (20%), -ined (20%)]  (Found in 8 words)
+      -resh   -> [-lled (20%), -oped (20%), -ered (20%)]  (Found in 7 words)
+      -nesh   -> [-ited (22%), -lled (22%), -ated (11%)]  (Found in 7 words)
+      -lash   -> [-ding (33%), -ling (22%), -king (11%)]  (Found in 7 words)
+   [Pattern: -VC]
+      -al     -> [-se (27%), -in (16%), -so (12%)]        (Found in 20 words)
+      -el     -> [-ve (21%), -ot (21%), -re (19%)]        (Found in 18 words)
+      -am     -> [-ch (22%), -ly (19%), -es (16%)]        (Found in 17 words)
+      -er     -> [-er (23%), -ow (15%), -ic (15%)]        (Found in 15 words)
+      -ir     -> [-nt (24%), -al (18%), -ze (13%)]        (Found in 14 words)
+      -ar     -> [-on (28%), -ts (16%), -ce (16%)]        (Found in 14 words)
+      -es     -> [-at (58%), -nt (9%), -ds (5%)]          (Found in 14 words)
+      -as     -> [-ch (23%), -is (17%), -ur (14%)]        (Found in 13 words)
+      -en     -> [-en (33%), -st (20%), -es (13%)]        (Found in 11 words)
+      -em     -> [-ou (51%), -st (16%), -er (9%)]         (Found in 11 words)
+      -an     -> [-al (30%), -ay (17%), -lf (17%)]        (Found in 8 words)
+   [Pattern: -VCC]
+      -ash    -> [-ing (93%), -ven (5%), -fer (1%)]       (Found in 55 words)
+      -esh    -> [-ted (22%), -sed (12%), -ned (11%)]     (Found in 49 words)
+      -aym    -> [-ane (47%), -tor (11%), -uth (11%)]     (Found in 9 words)
+      -äsh    -> [-ing (100%)]                            (Found in 8 words)
+      -ësh    -> [-hem (33%), -ted (25%), -ned (17%)]     (Found in 8 words)
+      -ath    -> [-ose (40%), -nal (20%), -ess (10%)]     (Found in 7 words)
+   [Pattern: -VCCV]
+      -idse   -> [-tion (97%), -size (3%)]                (Found in 27 words)
+   [Pattern: -VVCC]
+      -eash   -> [-ting (25%), -sing (17%), -ring (17%)]  (Found in 8 words)
+
+[2. DICTIONARY (Categorized by Part-of-Speech)]
+
+   [2.A. NOUNS]
+      [VERIFIED]      dewuggy         = layer           (Conf: 100% | Seen: 16x)
+      [VERIFIED]      gëumde          = perspective     (Conf: 100% | Seen: 15x)
+      [VERIFIED]      beïr            = man             (Conf: 87% | Seen: 13x)
+      [VERIFIED]      beïr            = man's           (Conf: 13% | Seen: 2x)
+      [VERIFIED]      geal            = base            (Conf: 100% | Seen: 14x)
+      [VERIFIED]      deiemdy         = its             (Conf: 100% | Seen: 14x)
+      [VERIFIED]      bëoggy          = images          (Conf: 100% | Seen: 13x)
+      [VERIFIED]      fëilsa          = one             (Conf: 100% | Seen: 12x)
+      [VERIFIED]      bëoeyt          = image           (Conf: 100% | Seen: 10x)
+      [VERIFIED]      beuel           = not             (Conf: 100% | Seen: 10x)
+      [VERIFIED]      eymoasa         = magician        (Conf: 100% | Seen: 10x)
+      [VERIFIED]      seoeys          = elements        (Conf: 100% | Seen: 9x)
+      [VERIFIED]      nyir            = different       (Conf: 100% | Seen: 9x)
+      [VERIFIED]      deaym           = plane           (Conf: 100% | Seen: 9x)
+      [VERIFIED]      bende           = mind            (Conf: 100% | Seen: 9x)
+      [VERIFIED]      feasa           = time            (Conf: 100% | Seen: 8x)
+      [VERIFIED]      seidna          = ego             (Conf: 100% | Seen: 8x)
+      [VERIFIED]      eysas           = such            (Conf: 100% | Seen: 8x)
+      [VERIFIED]      seoeylsy        = elementaries    (Conf: 100% | Seen: 8x)
+      [VERIFIED]      felse           = window          (Conf: 100% | Seen: 7x)
+      [VERIFIED]      feys            = band            (Conf: 100% | Seen: 7x)
+      [VERIFIED]      dar             = upon            (Conf: 100% | Seen: 7x)
+      [VERIFIED]      eysuiem         = most            (Conf: 100% | Seen: 7x)
+      [VERIFIED]      hysa            = body            (Conf: 100% | Seen: 7x)
+      [VERIFIED]      geoudka         = planes          (Conf: 100% | Seen: 7x)
+      [VERIFIED]      thëal           = within          (Conf: 100% | Seen: 6x)
+      [VERIFIED]      reial           = also            (Conf: 100% | Seen: 6x)
+      [VERIFIED]      eydinny         = life            (Conf: 100% | Seen: 6x)
+      [VERIFIED]      deiän           = become          (Conf: 100% | Seen: 6x)
+      [VERIFIED]      seoeyr          = elementary      (Conf: 100% | Seen: 6x)
+      [VERIFIED]      lyiolsy         = spirit          (Conf: 100% | Seen: 6x)
+      [VERIFIED]      dewir           = size            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      eytsa           = then            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      deyth           = small           (Conf: 100% | Seen: 5x)
+      [VERIFIED]      neoerhaidse     = transformation  (Conf: 100% | Seen: 5x)
+      [VERIFIED]      neoerhy         = transformations (Conf: 100% | Seen: 5x)
+      [VERIFIED]      eytwal          = both            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      tëkny           = expression      (Conf: 100% | Seen: 5x)
+      [VERIFIED]      aysyr           = important       (Conf: 100% | Seen: 5x)
+      [VERIFIED]      meuomme         = task            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      aylaias         = four            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      ayser           = how             (Conf: 100% | Seen: 4x)
+      [VERIFIED]      deikna          = been            (Conf: 100% | Seen: 4x)
+      [VERIFIED]      bewyl           = out             (Conf: 100% | Seen: 4x)
+      [VERIFIED]      teier           = another         (Conf: 100% | Seen: 4x)
+      [VERIFIED]      eymwnde         = many            (Conf: 100% | Seen: 4x)
+      [VERIFIED]      aylohdeidse     = function        (Conf: 100% | Seen: 4x)
+      [VERIFIED]      feian           = way             (Conf: 100% | Seen: 4x)
+      [VERIFIED]      aymeiam         = geometric       (Conf: 100% | Seen: 4x)
+      [VERIFIED]      lyeär           = create          (Conf: 100% | Seen: 4x)
+      [VERIFIED]      tewuir          = feel            (Conf: 100% | Seen: 4x)
+      [VERIFIED]      deuan           = self            (Conf: 100% | Seen: 4x)
+      [VERIFIED]      eytym           = there           (Conf: 100% | Seen: 4x)
+      [VERIFIED]      eynieas         = control         (Conf: 100% | Seen: 4x)
+      [VERIFIED]      aymioam         = gives           (Conf: 100% | Seen: 4x)
+      [VERIFIED]      seoeyd          = element         (Conf: 100% | Seen: 4x)
+      [VERIFIED]      neaunna         = three           (Conf: 100% | Seen: 4x)
+      [VERIFIED]      nywondy         = vehicles        (Conf: 100% | Seen: 4x)
+      [VERIFIED]      lyeiysh         = soul            (Conf: 100% | Seen: 4x)
+      [VERIFIED]      tä              = than            (Conf: 100% | Seen: 4x)
+      [VERIFIED]      eymedke         = lower           (Conf: 100% | Seen: 4x)
+      [VERIFIED]      lëuash          = seven           (Conf: 100% | Seen: 4x)
+      [VERIFIED]      hyeorha         = principles      (Conf: 100% | Seen: 4x)
+      [VERIFIED]      aylemdy         = frequency       (Conf: 100% | Seen: 3x)
+      [VERIFIED]      gëelse          = perform         (Conf: 100% | Seen: 3x)
+      [VERIFIED]      hyiwath         = propose         (Conf: 100% | Seen: 3x)
+      [VERIFIED]      bewaes          = bands           (Conf: 100% | Seen: 3x)
+      [VERIFIED]      bëys            = line            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      ga              = along           (Conf: 100% | Seen: 3x)
+      [VERIFIED]      dewuhdy         = layers          (Conf: 100% | Seen: 3x)
+      [VERIFIED]      ayny            = up              (Conf: 100% | Seen: 3x)
+      [VERIFIED]      ta              = down            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      sëwar           = effects         (Conf: 100% | Seen: 3x)
+      [VERIFIED]      tyäyr           = find            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      feiem           = well            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      aythuas         = however         (Conf: 100% | Seen: 3x)
+      [VERIFIED]      neaodke         = things          (Conf: 100% | Seen: 3x)
+      [VERIFIED]      neaodky         = think           (Conf: 100% | Seen: 3x)
+      [VERIFIED]      beayn           = keep            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      deaes           = person          (Conf: 67% | Seen: 2x)
+      [VERIFIED]      deaes           = person's        (Conf: 33% | Seen: 1x)
+      [VERIFIED]      tyyl            = form            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      kywffa          = consciousness   (Conf: 100% | Seen: 3x)
+      [VERIFIED]      lyeumda         = span            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      fenna           = work            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      sean            = earth           (Conf: 100% | Seen: 3x)
+      [VERIFIED]      tesa            = fire            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      eymuwys         = manifest        (Conf: 100% | Seen: 3x)
+      [VERIFIED]      nyes            = development     (Conf: 100% | Seen: 3x)
+      [VERIFIED]      aysowem         = higher          (Conf: 100% | Seen: 3x)
+      [VERIFIED]      eynuwir         = methods         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      dewan           = short           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neoenny         = transform       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eytuoer         = non             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deam            = amount          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      fedde           = top             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      rëahda          = volumetric      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      kewandyidse     = representation  (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deoys           = scale           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neäeyd          = text            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lyel            = color           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eymiwas         = made            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eydöyn          = lines           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      leashe          = contains        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deoyr           = say             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      dëyd            = process         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neiayr          = derive          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eydöal          = linear          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      dewulsy         = layout          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      nyueyd          = displacement    (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meaudne         = subject         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      hywaen          = chosen          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      kyewal          = components      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lyierha         = speeds          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      feiëtt          = orientations    (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neoiknyidse     = translation     (Conf: 100% | Seen: 2x)
+      [VERIFIED]      rewushy         = yield           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      gëidde          = periodic        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      sy              = despite         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      syir            = fact            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eyniggy         = means           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neirhy          = designs         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ayläs           = applications    (Conf: 100% | Seen: 2x)
+      [VERIFIED]      seäar           = dynamic         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      aylem           = future          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meushyidse      = deformation     (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ayminne         = given           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      tër             = field           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      reassy          = documents       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neohda          = details         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      dëes            = present         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eymar           = space           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      beäeyd          = human's         (Conf: 50% | Seen: 1x)
+      [VERIFIED]      beäeyd          = human           (Conf: 50% | Seen: 1x)
+      [VERIFIED]      seyl            = enough          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deiwffy         = job             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      aysheyd         = health          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      leuier          = cosmic          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deual           = seem            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ra              = beyond          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      rewwhde         = yourself        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ki              = around          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deiär           = becomes         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      feaes           = tight           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      bëaydd          = identity        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meulsa          = define          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      hyewdne         = problems        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deiemma         = itself          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      feiwer          = broaden         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neieash         = too             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      syyn            = far             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      rewaesh         = world           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meuwdky         = teaches         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      feioash         = our             (Conf: 50% | Seen: 1x)
+      [VERIFIED]      feioash         = has             (Conf: 50% | Seen: 1x)
+      [VERIFIED]      hyiett          = characters      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deueys          = best            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      aysuyr          = assume          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lyysidse        = condition       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      seyr            = even            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eynioys         = media           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      geaeyd          = buy             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lewiyl          = course          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meuweyn         = fear            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deätde          = intelligent     (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eydurhy         = live            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eysar           = substance       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      leal            = certain         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      geikny          = cannot          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lyeaym          = creator         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      beoyn           = name            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ayssel          = assigns         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      syouyn          = essence         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      beämma          = people          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      nyïysh          = universe        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      beashy          = attachment      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      kyouffa         = said            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      newett          = did             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eymoaer         = magic           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      keaihda         = rather          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      deoays          = beings          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      seoeyls         = elementals      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      teäen           = exist           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meuondy         = tasks           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      reoakny         = western         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      feäm            = thought         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      beyn            = air             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      fehdy           = water           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      newes           = alchemy         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      hyuedky         = pure            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      mewaen          = degrees         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eymëam          = lowest          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      leienne         = sheaths         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eythlysa        = nature          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      rewwayl         = yogi            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      geierhy         = philosophy      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eynöen          = men             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      renda           = although        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eyneoes         = matter          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      bewer           = order           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      leoadna         = show            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ayloïr          = functions       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meaeshe         = students        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neaenney        = theories        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      seïyr           = either          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      kay             = next            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neuwaym         = truth           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      këinda          = recent          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyueyd          = focus           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nywir           = allow           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feaohdy         = observe         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      sysäm           = estimate        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syulsa          = evolves         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyiekny         = speech          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beoyl           = music           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyuendy         = stationary      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leoudka         = signals         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meïath          = suppose         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rëudka          = want            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syayr           = analysis        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyainna         = uncertain       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rewoamidse      = duration        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eysal           = stretch         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyiffa          = compute         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fësh            = value           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyaemma         = results         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keiuash         = refer           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      sewmdy          = enables         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyeaenidse      = creation        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynuies         = messages        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meoiytt         = symbols         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyuen           = appear          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytyr           = thin            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neödka          = transparent     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eysunny         = motifs          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leowkny         = similar         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gëidna          = periods         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyadne          = dimension       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ayddmmeidse     = formation       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ny              = between         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feaudde         = obtain          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feiëthidse      = orientation     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyylidse        = direction       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eysiuer         = model           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyeamde         = undergoes       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leytt           = advance         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dewumda         = layouts         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aynerhe         = artistic        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      synzesidse      = synthesize      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynuwar         = method          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reouhda         = whose           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meiarhaidse     = superposition   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meusha          = deform          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neaiaym         = therefore       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syowel          = establish       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynwael         = metrics         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neuwdka         = try             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keändy          = ranges          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fewamda         = parameter       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leiusa          = coordinate      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nywemde         = values          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëays           = attractive      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dewemmy         = large           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyoammeidse     = protection      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fy              = against         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leairha         = security        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syahde          = enlarge         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyaëm           = finest          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eymaual         = lost            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kewekneidse     = reproduction    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leiunna         = shop            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feal            = art             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beuym           = offer           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aynrhe          = artistic        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beiusa          = awareness       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syem            = experience      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tewiym          = fears           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beier           = make            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyyl            = comparison      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nywoath         = vastness        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deuinny         = know            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysäas          = happen          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyenny          = complaints      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feiwam          = broad           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysuoyl         = home            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gëesse          = perhaps         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feïshy          = others          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geower          = cares           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      zenem           = center          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bewoffy         = insignificant   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feiwyl          = broader         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyam            = bit             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyewdka         = problem         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feisa           = where           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reoffy          = draws           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keowayn         = relationships   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gëuhda          = personality     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hywesse         = quirks          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aynym           = help            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytieth         = needs           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feadnay         = boundaries      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meiudde         = survive         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neaunde         = threatens       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deuas           = sense           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deiuel          = begin           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feddy           = touch           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keawlse         = reality         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      demma           = rest            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eymym           = start           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fëikny          = once            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beuen           = now             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eydäyn          = leaves          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      sewiem          = empty           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fae             = inside          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syal            = ever            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytal           = take            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neaëyt          = themselves      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      teuairy         = families        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyauyr          = community       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      delse           = religion        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meir            = country         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keawffa         = know            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      remda           = alternative     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beuosha         = influence       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rëueth          = wants           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meaiaym         = stuff           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyoar           = addict          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leaimme         = secure          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynehde         = materialism     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysioel         = helps           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eymorha         = maintain        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëoayl          = illusion        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ayddnny         = former          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyawmdy         = sold            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deuys           = shirt           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ayddën          = forget          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deöaym          = just            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyuear          = conform         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytwasa         = norms           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dehda           = purpose         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keueaym         = remains         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leuarhe         = single          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyeael          = creates         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëeam           = attributes      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylkne          = appropriate     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëwysh          = imparts         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neöer           = determines      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyaies          = finite          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neoeyn          = detaches        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysseys         = himself         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meiunde         = sustains        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reoëm           = draw            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meiundy         = sustenance      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyas            = dependent       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syas            = existence       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytihde         = negativity      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylulse         = gain            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beötdy          = independence    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fëel            = turn            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyeayn          = creators        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyir            = force           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reautde         = vitality        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syutde          = examples        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nywenne         = vampiric        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syehdey         = entities        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyaoddy         = predators       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyowal          = disorders       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feaomma         = obsession       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytieyt         = negative        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyaym           = actions         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      synna           = anger           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meoas           = aggression      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leuënidse       = corruption      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feweayl         = parasitic       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nëar            = ailments        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyishe          = diseases        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nëtde           = depression      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geoissy         = pity            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tewuyr          = feelings        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reaerhyidse     = victimization   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyuwsse         = stimulate       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëohdyidse      = imagination     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feoam           = wrong           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bewan           = open            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rëm             = attachment      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keialsa         = recovery        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neaueym         = thoughts        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      sewael          = emotions        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gewondy         = positive        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyuedne         = starves         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tywiyl          = forces          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beiuym          = away            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deoggy          = believe         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lëedna          = sent            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lä              = off             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fewoggy         = particular      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      te              = most            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nywdke          = dissolves       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fesa            = back            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyneoal         = matrix          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beöysh          = independent     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylyn           = go              (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyys            = cause           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynash          = blocks          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyeodke         = primary         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syöys           = esoteric        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neiwmmeidse     = tradition       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neïam           = describes       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      thyiyn          = fifth           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyïmde          = unique          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyiuhday        = properties      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyiesh          = characteristics (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syian           = ancient         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neiwnne         = traditions      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyniusa         = medicine        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eydeosa         = levels          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deiknaidse      = addition        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      seulse          = embody          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyiomme         = spirits         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      synde           = angels          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feauysh         = occur           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      newomme         = types           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beiukna         = impure          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyuatda         = stars           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neaohdy         = third           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      newolsa         = type            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyewes          = composite       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kabbalysy       = kabbalistic     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyiadne         = rivers          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyonda          = flow            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylen           = garden          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      sëiel           = eden            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aymauyn         = genesis         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyöhda          = psychic         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      shyssy          = energy          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meiahda         = superior        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dewoal          = bind            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feaym           = together        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nywddy          = dissolve        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      pytagoras       = pythagoras      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syiuys          = equivalent      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gëitda          = permeates       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynuoel         = metals          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylys           = gold            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dewen           = silver          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyyn            = complete        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neawer          = density         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyewath         = spark           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reaeir          = divine          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyeiayn         = prevent         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylel           = full            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyäs            = advances        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fewuett         = passes          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beiuir          = aware           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gewwlsay        = potentialities  (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyietda         = progresses      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyewmdy         = unfolds         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyänne          = powers          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyürhey         = qualities       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëym            = light           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lëuath          = sevenfold       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyeayr          = creature        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eymousa         = majority        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meien           = age             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gewotdy         = possesses       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyëal           = five            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leuiggy         = sixth           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      thewar          = few             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lëuays          = seventh         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyturhe         = none            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hywinne         = race            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tytde           = apparent        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyoär           = crudest         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eymuyshidse     = manifestation   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lënda           = contrary        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      berhy           = necessary       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyeonne         = principle       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aymes           = growth          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eymir           = stage           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      mewikne         = temple          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keuisse         = render          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gëedne          = perfect         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beael           = instrument      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beiam           = look            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      detde           = see             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyshyry         = bodies          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      shae            = under           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rewuar          = duty            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fedky           = train           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysowen         = highest         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyan            = degree          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gëëydidse       = perfection      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyaem           = advantage       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deoulsa         = kept            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feaessy         = obey            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feiakna         = orders          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deoen           = rule            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fëatdy          = often           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geuoir          = case            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dewiysh         = latter          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syunda          = exact           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lewayr          = counterpart     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyuer           = appearance      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deuissy         = known           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geawshy         = people          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      melse           = ages            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyewmdy         = rise            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meieayl         = superstitions   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyteknay        = mysteries       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deüddy          = lack            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bedne           = knowledge       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ayloyr          = apt             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keoeayl         = regard          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyayr           = absurd          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eysenidse       = suggestion      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyönne          = psychology      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beial           = long            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geiedde         = phases          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      mennidse        = mentation       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dëoam           = account         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rëem            = alone           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beays           = key             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytelsa         = mystery         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rewimda         = writers         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      seasha          = easier          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyioal          = conceive        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynouyr         = mentality       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leörha          = sight           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deän            = part            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keiutdeidse     = reflection      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylaoanidse     = fraction        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      seiär           = effort          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dewas           = side            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meaesha         = student         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eysauyn         = minds           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reaikny         = views           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyyr            = complex         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyer            = detail          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eydeier         = lesson          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ayles           = get             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysyl           = idea            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geauayl         = pegs            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aynwuem         = hang            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beüaynidse      = information     (Conf: 100% | Seen: 1x)
+
+   [2.B. VERBS]
+      [VERIFIED]      deiäth          = is              (Conf: 100% | Seen: 44x)
+      [VERIFIED]      aymmde          = are             (Conf: 100% | Seen: 30x)
+      [VERIFIED]      geas            = be              (Conf: 100% | Seen: 17x)
+      [VERIFIED]      geiär           = can             (Conf: 100% | Seen: 16x)
+      [VERIFIED]      fekny           = will            (Conf: 100% | Seen: 11x)
+      [VERIFIED]      kyauyshash      = revealing       (Conf: 100% | Seen: 11x)
+      [VERIFIED]      aynel           = have            (Conf: 100% | Seen: 10x)
+      [VERIFIED]      reas            = do              (Conf: 100% | Seen: 8x)
+      [VERIFIED]      aysaysh         = has             (Conf: 100% | Seen: 7x)
+      [VERIFIED]      bekny           = may             (Conf: 100% | Seen: 6x)
+      [VERIFIED]      leiwshy         = should          (Conf: 100% | Seen: 4x)
+      [VERIFIED]      deoayrash       = being           (Conf: 100% | Seen: 4x)
+      [VERIFIED]      nyuwdnaesh      = used            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      eyswiemash      = moving          (Conf: 100% | Seen: 3x)
+      [VERIFIED]      deaikneash      = interesting     (Conf: 100% | Seen: 3x)
+      [VERIFIED]      teawsaesh       = explained       (Conf: 100% | Seen: 3x)
+      [VERIFIED]      gëïresh         = called          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      leüel           = could           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      keuwtdësh       = replicated      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      aynammäsh       = grating         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      kyaemdyash      = resulting       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      kyoemdyash      = running         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lywaesesh       = curved          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      fëakneash       = offering        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      mëohdaesh       = suited          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      dëiknyesh       = invested        (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ayloaelash      = fulfilling      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eydoienesh      = limited         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      beölsyesh       = indeed          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lëuanesh        = controlled      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      eytwoesesh      = nourished       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      hywylash        = according       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      rëwshy          = was             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      behdeash        = living          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neuairesh       = developed       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      kywoiresh       = considered      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      këamdyash       = reasoning       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lëweymash       = shading         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      hyewknäsh       = processing      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syaynash        = analyzing       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyuwkneash      = using           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beoimmeash      = increasing      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyïasash        = computing       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyouaymash      = stacking        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      synzesigash     = synthesizing    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beoihdyash      = incorporating   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ligash          = superposing     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyieanash       = comprising      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyautdyesh      = revealed        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eydwianesh      = located         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syahdyesh       = enlarged        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      se              = considering     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyuaeytash      = sampling        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      synzesesh       = synthesized     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylathash       = applying        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neïanash        = describing      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deuirhyash      = knowing         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyuasash        = appealing       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neiddyash       = deriving        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nëëmash         = depending       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keknyesh        = achieved        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eynwwar         = might           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beowyshash      = inducing        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keännäsh        = ranging         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meäaylash       = striking        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lewaenash       = counterfeiting  (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyoammäsh       = protecting      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      enesh           = unauthorized    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyeaemash       = creating        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëiyshesh       = illuminated     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feiwirash       = broadening      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hywwmdäsh       = raising         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      rëasäsh         = doing           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leïtdyash       = shifting        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meïattesh       = supposed        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      snivelingash    = sniveling       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reaieytesh      = viewed          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deoudkyash      = keeping         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      teaialash       = expanding       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eymassyash      = losing          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyiairesh       = disconnected    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nëshyesh        = depressed       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lëemmësh        = separated       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysdkeash       = asking          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      leaondyesh      = seemed          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyoiesash       = conditioning    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reiannäsh       = watching        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kehdyesh        = accustomed      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reioaynash      = wearing         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tyddeash        = anything        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      mëuggyesh       = summoned        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aysrhyesh       = assigned        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reiwymash       = draining        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hywasesh        = accomplished    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      tewuamesh       = feed            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meulsësh        = defined         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyeäsesh        = created         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyeoesesh       = completed       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deowattash      = building        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syuëlash        = everything      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bennyesh        = mixed           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kewarhyesh      = represented     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neihdësh        = described       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      sewmmäsh        = enabling        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neöaylash       = transmuting     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bëolsësh        = imagined        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gewoyshash      = inhabiting      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyeweynesh      = proceed         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      sewoynesh       = encased         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyewaresh       = composed        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyuälash        = confining       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyeimdësh       = undeveloped     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beauasesh       = attained        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reauyn          = does            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neiwyresh       = despised        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytïamesh       = neglected       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      mewoattesh      = tended          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geoueresh       = cared           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      neoäysesh       = trained         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyuythesh       = connected       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feowmmeash      = owing           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      zedesh          = recognized      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nywirhyash      = varying         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lyälesh         = advanced        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meaessyesh      = studied         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reweatt         = would           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ayloierash      = functioning     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eytysash        = thing           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      teynesh         = fixed           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      ayshayn         = created         (Conf: 100% | Seen: 1x)
+
+   [2.C. ADJECTIVES]
+      [VERIFIED]      eysswel         = more            (Conf: 100% | Seen: 9x)
+      [VERIFIED]      eynouyl         = mental          (Conf: 100% | Seen: 7x)
+      [VERIFIED]      beäan           = astral          (Conf: 100% | Seen: 7x)
+      [VERIFIED]      deair           = physical        (Conf: 100% | Seen: 7x)
+      [VERIFIED]      betda           = new             (Conf: 100% | Seen: 6x)
+      [VERIFIED]      seoeyl          = elemental       (Conf: 100% | Seen: 6x)
+      [VERIFIED]      bewsa           = other           (Conf: 100% | Seen: 5x)
+      [VERIFIED]      deoym           = same            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      lyiommy         = spiritual       (Conf: 100% | Seen: 3x)
+      [VERIFIED]      keawdna         = real            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      beoir           = much            (Conf: 100% | Seen: 2x)
+      [VERIFIED]      leouath         = signal          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      behda           = little          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      beoweym         = individual      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lyauatt         = social          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      feownny         = own             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lëudna          = several         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      teyl            = first           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      meam            = conscious       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      lyiaytt         = spectral        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lëëm            = continuous      (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyämdy          = powerful        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyneisa         = mathematical    (Conf: 100% | Seen: 1x)
+      [VERIFIED]      dëlsy           = able            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyaolse         = predictable     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gewwkny         = potential       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syaeym          = enjoyable       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      fëusse          = optical         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geuomma         = pointless       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aynwiyn         = handful         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kewwar          = comfortable     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beuys           = old             (Conf: 100% | Seen: 1x)
+      [VERIFIED]      meiuayn         = survival        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lëutdy          = sexual          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyawmmy         = reversal        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      demdy           = responsible     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      bekne           = material        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyteaes         = mutable         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      feäkna          = numerous        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aymal           = good            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reuoyl          = dual            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eydehde         = less            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyeommy         = principal       (Conf: 100% | Seen: 1x)
+
+   [2.D. FUNCTION WORDS (Pronouns, Prepositions, etc.)]
+      [VERIFIED]      sh              = the             (Conf: 100% | Seen: 177x)
+      [VERIFIED]      yn              = of              (Conf: 100% | Seen: 105x)
+      [VERIFIED]      neyn            = and             (Conf: 100% | Seen: 88x)
+      [VERIFIED]      beal            = a               (Conf: 100% | Seen: 64x)
+      [VERIFIED]      vae             = to              (Conf: 100% | Seen: 57x)
+      [VERIFIED]      deieash         = it              (Conf: 97% | Seen: 34x)
+      [VERIFIED]      deieash         = t               (Conf: 3% | Seen: 1x)
+      [VERIFIED]      neyl            = in              (Conf: 100% | Seen: 32x)
+      [VERIFIED]      eytes           = that            (Conf: 100% | Seen: 32x)
+      [VERIFIED]      ky              = as              (Conf: 100% | Seen: 23x)
+      [VERIFIED]      feoem           = you             (Conf: 100% | Seen: 22x)
+      [VERIFIED]      dä              = for             (Conf: 100% | Seen: 20x)
+      [VERIFIED]      rewwggy         = your            (Conf: 100% | Seen: 20x)
+      [VERIFIED]      lae             = on              (Conf: 100% | Seen: 17x)
+      [VERIFIED]      ry              = by              (Conf: 100% | Seen: 16x)
+      [VERIFIED]      reoidke         = which           (Conf: 100% | Seen: 15x)
+      [VERIFIED]      reïhde          = we              (Conf: 100% | Seen: 13x)
+      [VERIFIED]      dae             = from            (Conf: 100% | Seen: 13x)
+      [VERIFIED]      neaimma         = they            (Conf: 100% | Seen: 12x)
+      [VERIFIED]      keaoytt         = but             (Conf: 100% | Seen: 11x)
+      [VERIFIED]      idne            = an              (Conf: 100% | Seen: 9x)
+      [VERIFIED]      seaeam          = each            (Conf: 100% | Seen: 8x)
+      [VERIFIED]      feäl            = this            (Conf: 100% | Seen: 8x)
+      [VERIFIED]      bewem           = or              (Conf: 100% | Seen: 8x)
+      [VERIFIED]      beyr            = all             (Conf: 100% | Seen: 8x)
+      [VERIFIED]      feïr            = when            (Conf: 100% | Seen: 7x)
+      [VERIFIED]      aysym           = if              (Conf: 100% | Seen: 7x)
+      [VERIFIED]      neaeddy         = their           (Conf: 100% | Seen: 7x)
+      [VERIFIED]      la              = at              (Conf: 100% | Seen: 6x)
+      [VERIFIED]      ayssoas         = his             (Conf: 100% | Seen: 6x)
+      [VERIFIED]      aynem           = he              (Conf: 100% | Seen: 6x)
+      [VERIFIED]      neailse         = these           (Conf: 100% | Seen: 5x)
+      [VERIFIED]      reoedde         = what            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      teuayr          = with            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      gä              = into            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      eyden           = so              (Conf: 100% | Seen: 4x)
+      [VERIFIED]      nyuwaym         = us              (Conf: 100% | Seen: 4x)
+      [VERIFIED]      neaësh          = them            (Conf: 100% | Seen: 4x)
+      [VERIFIED]      gae             = like            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      sh'             = the             (Conf: 100% | Seen: 3x)
+      [VERIFIED]      beual           = no              (Conf: 100% | Seen: 3x)
+      [VERIFIED]      eydym           = some            (Conf: 100% | Seen: 3x)
+      [VERIFIED]      gëm             = because         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      tae             = through         (Conf: 100% | Seen: 2x)
+      [VERIFIED]      neaudde         = those           (Conf: 100% | Seen: 2x)
+      [VERIFIED]      feiys           = who             (Conf: 100% | Seen: 2x)
+      [VERIFIED]      nae             = over            (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syam            = every           (Conf: 100% | Seen: 1x)
+      [VERIFIED]      mesa            = he              (Conf: 100% | Seen: 1x)
+
+   [2.E. ADVERBS]
+      [VERIFIED]      bewam           = only            (Conf: 100% | Seen: 5x)
+      [VERIFIED]      reaushy         = visually        (Conf: 100% | Seen: 3x)
+      [VERIFIED]      keowdde         = relatively      (Conf: 100% | Seen: 2x)
+      [VERIFIED]      bewadna         = initially       (Conf: 100% | Seen: 2x)
+      [VERIFIED]      ayssäm          = highly          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      seashy          = easily          (Conf: 100% | Seen: 2x)
+      [VERIFIED]      tëuam           = extensively     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aymwoar         = gradually       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyautdy         = uncountably     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      seäel           = dynamically     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aylëyr          = freely          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lewoeyt         = slowly          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      deaëys          = intentionally   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syunny          = exactly         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      syym            = family          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keawmmy         = really          (Conf: 100% | Seen: 1x)
+      [VERIFIED]      reauath         = virtually       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      nyaorhe         = uncomfortably   (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyeuyth         = probably        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      eyduiyl         = literally       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      kyweyt          = consciously     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      lywwrha         = strictly        (Conf: 100% | Seen: 1x)
+      [VERIFIED]      aymashy         = generally       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      gewwlsy         = potentially     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      hyässy          = practically     (Conf: 100% | Seen: 1x)
+      [VERIFIED]      geowam          = carefully       (Conf: 100% | Seen: 1x)
+      [VERIFIED]      keiggy          = closely         (Conf: 100% | Seen: 1x)
+      [VERIFIED]      beiamma         = imperceptibly   (Conf: 100% | Seen: 1x)
+
+[3. WORD FAMILIES (Stem-based)]
+   - Root: 'aware' -> Nymma Family (beiu-): [beiuir, beiusa]
+   - Root: 'broad' -> Nymma Family (feiw-): [feiwam, feiwyl]
+   - Root: 'broaden' -> Nymma Family (feiw-): [feiwer, feiwirash]
+   - Root: 'creat' -> Nymma Family (lyea-): [lyeael, lyeaemash, lyeaym]
+   - Root: 'deform' -> Nymma Family (meus-): [meusha, meushyidse]
+   - Root: 'describ' -> Nymma Family (neïa-): [neïam, neïanash]
+   - Root: 'easi' -> Nymma Family (seas-): [seasha, seashy]
+   - Root: 'element' -> Nymma Family (seoe-): [seoeyd, seoeys]
+   - Root: 'elemental' -> Nymma Family (seoe-): [seoeyl, seoeyls]
+   - Root: 'enabl' -> Nymma Family (sewm-): [sewmdy, sewmmäsh]
+   - Root: 'exact' -> Nymma Family (syun-): [syunda, syunny]
+   - Root: 'form' -> Nymma Family (aydd-): [ayddmmeidse, ayddnny]
+   - Root: 'function' -> Nymma Family (aylo-): [ayloierash, ayloïr]
+   - Root: 'know' -> Nymma Family (deui-): [deuinny, deuirhyash]
+   - Root: 'layout' -> Nymma Family (dewu-): [dewulsy, dewumda]
+   - Root: 'manifest' -> Nymma Family (eymu-): [eymuwys, eymuyshidse]
+   - Root: 'mental' -> Nymma Family (eyno-): [eynouyl, eynouyr]
+   - Root: 'method' -> Nymma Family (eynu-): [eynuwar, eynuwir]
+   - Root: 'potential' -> Nymma Family (geww-): [gewwkny, gewwlsy]
+   - Root: 'problem' -> Nymma Family (hyew-): [hyewdka, hyewdne]
+   - Root: 'rang' -> Nymma Family (keän-): [keändy, keännäsh]
+   - Root: 'real' -> Nymma Family (keaw-): [keawdna, keawlse, keawmmy]
+   - Root: 'represent' -> Nymma Family (kewa-): [kewandyidse, kewarhyesh]
+   - Root: 'result' -> Nymma Family (kyae-): [kyaemdyash, kyaemma]
+   - Root: 'reveal' -> Nymma Family (kyau-): [kyautdyesh, kyauyshash]
+   - Root: 'signal' -> Nymma Family (leou-): [leouath, leoudka]
+   - Root: 'spirit' -> Nymma Family (lyio-): [lyiolsy, lyiomme]
+   - Root: 'student' -> Nymma Family (meae-): [meaesha, meaeshe]
+   - Root: 'synthesiz' -> Nymma Family (synz-): [synzesesh, synzesigash]
+   - Root: 'task' -> Nymma Family (meuo-): [meuomme, meuondy]
+   - Root: 'transform' -> Nymma Family (neoe-): [neoenny, neoerhaidse]
+   - Root: 'view' -> Nymma Family (reai-): [reaieytesh, reaikny]
+
+--- END OF MANUAL ---
+--- START OF TEXT 1 (Encryption of Primordial Knowledge) ---
+
+Beoir yn sh'këinda tyueyd yn leouath hyewknäsh deiäth lae sh'eyden gëïresh feasa aylemdy (TF) eynuwir, reoidke nywir nyuwaym vae feaohdy ayser beal lyiaytt sysäm syulsa nae feasa. Fëilsa yn neailse TF eynuwir, sh'dewan feasa Fourier neoenny (STFT), aysaysh deikna nyuwdnaesh tëuam dä syaynash lyiekny, beoyl neyn bewsa eytuoer lyuendy leoudka.
+:::
+Much of the recent focus of signal processing is on the so called time frequency (TF) methods, which allow us to observe how a spectral estimate evolves over time. one of these TF methods, the short time Fourier transform (STFT), has been used extensively for analyzing speech, music and other non-stationary signals.
+ 
+Meïath reïhde rëudka vae gëelse beal STFT syayr keaoytt aymmde nyainna reoedde sh'felse dewir leiwshy geas. Reïhde leüel gëelse sh'STFT yn beal leouath s(t) nyuwkneash beal felse yn keowdde dewan rewoamidse neyn eytsa eysal sh'felse bewyl beal deyth deam neyn kyiffa teier STFT neyn eyden lae, aymwoar beoimmeash sh'felse dewir neyn kyïasash teier STFT dä seaeam fësh yn felse dewir. Lyouaymash nyautdy eymwnde yn neailse STFT lae fedde yn fëilsa teier kyaemma neyl beal lëëm rëahda kewandyidse yn s eytes deiäth beal aylohdeidse yn feasa, aylemdy neyn sh'dewir yn sh'felse. Reïhde fekny keiuash vae feäl rëahda kewandyidse ky sh'feasa aylemdy deoys (TFS) neoenny.
+:::
+Suppose we want to perform a STFT analysis but are uncertain what the window size should be. we could perform the STFT of a signal s(t) using a window of relatively short duration and then stretch the window out a small amount and compute another STFT and so on, gradually increasing the window size and computing another STFT for each value of window size. Stacking uncountably many of these STFT on top of one another results in a continuous volumetric representation of s that is a function of time, frequency and the size of the window. We will refer to this volumetric representation as the time frequency scale (TFS) transform.
+ 
+Reïhde hyiwath beal betda hyämdy feian yn synzesigash moiré bëoggy eytes sewmdy sh'lyeaenidse yn seäel eyswiemash eynuies beoihdyash neäeyd, meoiytt neyn lyel seoeys. Moiré bëoggy tyuen feïr ligash beal geal dewuggy eymiwas yn keuwtdësh geal bewaes neyn beal kyauyshash dewuggy eymiwas yn beal bëys aynammäsh kyieanash eytyr neödka eydöyn:
+:::
+We propose a new powerful way of synthesizing moiré images that enables the creation of dynamically moving messages incorporating text, symbols and color elements. Moiré images appear when superposing a base layer made of replicated base bands and a revealing layer made of a line grating comprising thin transparent lines:
+ 
+Seaeam keuwtdësh geal feys leashe sh'deoym bëoeyt, eytes deiäth, neäeyd bewem lyel eysunny. Deoyr sh'geal bewaes neyn sh'kyauyshash bëys aynammäsh aynel leowkny gëidna, sh'kyautdyesh moiré bëoeyt deiäth sh'bëoeyt eydwianesh thëal seaeam geal feys, syahdyesh ga fëilsa nyadne. Ry se sh'ayddmmeidse yn sh'moiré bëoeyt ky beal bëys kyuaeytash dëyd, reïhde neiayr sh'eydöal neoerhaidse ny sh'geal dewuggy neyn sh'moiré bëoeyt. Reïhde feaudde sh'aymeiam dewulsy yn sh'kyaemdyash moiré bëoeyt, deiemdy feiëthidse, dewir neyn nyueyd nyylidse feïr eyswiemash sh'kyauyshash dewuggy lae fedde yn sh'geal dewuggy.
+:::
+Each replicated base band contains the same image, that is, text or color motifs. Say the base bands and the revealing line grating have similar periods, the revealed moiré image is the image located within each base band, enlarged along one dimension. By considering the formation of the moiré image as a line sampling process, we derive the linear transformation between the base layer and the moiré image. We obtain the geometric layout of the resulting moiré image, its orientation, size and displacement direction when moving the revealing layer on top of the base layer.
+ 
+Deaikneash moiré bëoggy geiär geas synzesesh ry aylathash aymeiam neoerhy vae eytwal sh'geal neyn sh'kyauyshash dewuhdy. Reïhde hyiwath beal eyneisa eysiuer neïanash sh'aymeiam neoerhaidse eytes beal moiré bëoeyt nyeamde, feïr deiemdy geal dewuggy neyn deiemdy kyauyshash dewuggy aymmde meaudne vae nyir aylëyr hywaen eytuoer eydöal aymeiam neoerhy. Ry deuirhyash neyl leytt sh'dewulsy yn beal moiré bëoeyt ky beal aylohdeidse yn sh'dewumda yn sh'geal dewuggy neyn yn sh'kyauyshash dewuggy, reïhde aymmde dëlsy vae lyeär moiré kyewal kyoemdyash ayny neyn ta la nyir lyierha neyn feiëtt dar neoiknyidse yn sh'kyauyshash dewuggy. Reïhde reial neiayr dewuggy neoerhy reoidke rewushy gëidde moiré bëoggy sy sh'syir eytes eytwal sh'geal neyn sh'kyauyshash dewuhdy aymmde lywaesesh. Ry fëakneash beal betda eyniggy yn aynerhe tëkny, feys moiré bëoggy geiär geas nyuwdnaesh vae lyeär betda neirhy neyn vae synzesidse reaushy tyuasash ayläs.
+:::
+Interesting moiré images can be synthesized by applying geometric transformations to both the base and the revealing layers. We propose a mathematical model describing the geometric transformation that a moiré image undergoes, when its base layer and its revealing layer are subject to different freely chosen non-linear geometric transformations. By knowing in advance the layout of a moiré image as a function of the layouts of the base layer and of the revealing layer, we are able to create moiré components running up and down at different speeds and orientations upon translation of the revealing layer. We also derive layer transformations which yield periodic moiré images despite the fact that both the base and the revealing layers are curved. By offering a new means of artistic expression, band moiré images can be used to create new designs and to synthesize visually appealing applications.
+ 
+Reïhde lyeär seäar moiré bëoggy, teuayr moiré kyewal kyoemdyash ayny neyn ta ga nyir feiëtt neyn la nyir lyierha dar neoiknyidse yn sh'kyauyshash dewuggy. Reïhde reial hyiwath beal eynuwar dä neiddyash dewuggy neoerhy reouhda meiarhaidse rewushy gëidde moiré bëoggy sy sh'syir eytes eytwal sh'geal neyn sh'kyauyshash dewuhdy aymmde lywaesesh. Nëëmash lae sh'hywaen dewuggy neoerhaidse, sh'kyaemdyash moiré bëoeyt bekny seïyr keuayss gëidde bewem beuel dar reäeth neoiknyidse yn sh'kyauyshash dewuggy. Deaikneash sëwar geiär geas keknyesh ry moiré bëoggy reoidke lewoeyt meusha dar dewuggy neoerhaidse.
+:::
+We create dynamic moiré images, with moiré components running up and down along different orientations and at different speeds upon translation of the revealing layer. we also propose a method for deriving layer transformations whose superposition yield periodic moiré images despite the fact that both the base and the revealing layers are curved. Depending on the chosen layer transformation, the resulting moiré image may either remain periodic or do not upon upon translation of the revealing layer. Interesting effects can be achieved by moiré images which slowly deform upon layer transformation.
+ 
+Neyl sh'aylem, deieash eynwwar neaiaym geas deaikneash vae syowel eynwael dä moiré bëoeyt meushyidse ky beal aylohdeidse yn kyauyshash dewuggy nyueyd.
+:::
+In the future, it might therefore be interesting to establish metrics for moiré image deformation as a function of revealing layer displacement.
+ 
+Fëilsa bekny eytsa neuwdka, dä beal ayminne moiré neoerhaidse, vae tyäyr keändy yn fewamda neyn leiusa nywemde beowyshash beal hyaolse reaushy bëays meushyidse yn sh'moiré bëoeyt. Feys moiré bëoggy aynel sh'gewwkny yn fëakneash beal dewemmy tër yn ayläs keännäsh dae meäaylash neirhy vae sh'hyoammeidse yn reassy fy lewaenash. Feys moiré bëoggy aymmde feiem mëohdaesh dä hyoammäsh leairha reassy, deoyr neaimma syahde sh'tyaëm neohda dëes thëal sh'geal bewaes, neohda reoidke bekny geas eymaual ry enesh kewekneidse. Feys moiré bëoggy aymmde reial feiem mëohdaesh dä lyeaemash reaushy syaeym sëwar, gae seäar moiré bëoggy eyswiemash ayny neyn ta thëal beal leiunna felse bëiyshesh dae ma. Thëal sh'tër yn fëusse feal feys moiré bëoggy beuym betda eyniggy yn aynrhe tëkny.
+:::
+One may then try, for a given moiré transformation, to find ranges of parameter and coordinate values inducing a predictable visually attractive deformation of the moiré image. Band moiré images have the potential of offering a large field of applications ranging from striking designs to the protection of documents against counterfeiting. Band moiré images are well suited for protecting security documents, say they enlarge the finest details present within the base bands, details which may be lost by unauthorized reproduction. Band moiré images are also well suited for creating visually enjoyable effects, like dynamic moiré images moving up and down within a shop window illuminated from ma. Within the field of optical art band moiré images offer new means of artistic expression.
+
+--- END OF TEXT 1 ---
+--- START OF TEXT 2 (Cosmic consciousness conditioning: The Alphabet Project and the Internet) ---
+
+Deaëys feiwirash rewwggy gëumde deiäth idne beiusa hywwmdäsh syem. Fëilsa yn sh'tewiym yn rëasäsh feäl gëumde leïtdyash, aythuas, deiäth eytes deieash fekny beier feoem tewuir eytes rewwggy eydinny deiäth geuomma neyl lyyl vae sh'nywoath yn feasa neyn eymar. Neyn feoem deuinny reoedde? Eytes deiäth syunny reoedde deiäth meïattesh vae aysäas... bewadna.
+:::
+Intentionally broadening your perspective is an awareness raising experience. One of the fears of doing this perspective shifting, however, is that it will make you feel that your life is pointless in comparison to the vastness of time and space. And you know what? That is exactly what is supposed to happen... initially.
+ 
+Fëilsa behda beäeyd snivelingash kyenny reas beuel deam vae beoir feïr reaieytesh dae beal feiwam seyl gëumde. Beyr sh'neaodke feoem neaodky aymmde aysyr, rewwggy deiwffy, rewwggy aysuoyl, rewwggy syym, rewwggy aysheyd, keawmmy aymmde beuel eytes aysyr dae beal leuier gëumde. Neaimma bewam deual aysyr dae sh' gëumde yn rewwggy beoweym seidna. Keaoytt ra rewwhde neyn gëesse beal aynwiyn yn feïshy, reauath beual fëilsa geower:
+:::
+One little human's sniveling complaints do not amount to much when viewed from a broad enough perspective. All the things you think are important, your job, your home, your family, your health, really are not that important from a cosmic perspective. They only seem important from the perspective of your individual ego. But beyond yourself and perhaps a handful of others, virtually no one cares:
+ 
+Feïr feoem zenem rewwggy eydinny ki neaodke eytes aymmde aysyr vae rewwggy seidna keaoytt keowdde bewoffy dae beal feiwyl gëumde, eytsa feoem aynel beal hyam yn beal hyewdka. Rewwggy seidna deiär ayssäm dëiknyesh neyl deoudkyash rewwggy gëumde deyth neyn feaes gëm eytes deiäth feisa sh'seidna reoffy deiemdy bëaydd. Rewwggy deiwffy, rewwggy keowayn neyn rewwggy gëuhda hywesse deiän rewwggy bëaydd:
+:::
+When you center your life around things that are important to your ego but relatively insignificant from a broader perspective, then you have a bit of a problem. Your ego becomes highly invested in keeping your perspective small and tight because that is where the ego draws its identity. Your job, your relationships and your personality quirks become your identity:
+ 
+Deieash deiäth ayser feoem meulsa rewwhde ky idne beoweym. Feoem deiän dëiknyesh neyl rewwggy hyewdne gëm neaimma aynym rewwggy seidna meulsa deiemma. Sh'seidna eytieth feadnay vae meiudde neyn teaialash rewwggy seidna neaunde sh'seidna neyn deiemdy deuas yn deuan. Aysym feoem feiwer rewwggy gëumde neieash syyn, feoem fekny deiuel vae tewuir feoem aymmde eymassyash feddy teuayr keawlse. Feoem bekny tewuir nyiairesh, nëshyesh bewem nyaorhe lëemmësh dae sh' demma yn sh'rewaesh:
+:::
+It is how you define yourself as an individual. You become invested in your problems because they help your ego define itself. The ego needs boundaries to survive and expanding your ego threatens the ego and its sense of self. If you broaden your perspective too far, you will begin to feel you are losing touch with reality. You may feel disconnected, depressed or uncomfortably separated from the rest of the world:
+ 
+Feoem eymym aysdkeash, “deiäth feäl beyr eytym deiäth?”
+:::
+You start asking, "is this all there is?"
+ 
+Reoedde fëikny leaondyesh ayloaelash beuen eydäyn feoem sewiem fae. Lyauatt kyoiesash reial meuwdky nyuwaym vae beayn feioash gëumde deyth neyl feasa neyn eymar. Feïr reas tv hyiett syal eytal lae beal leuier gëumde? Eysuiem reas beuel feiwer neaeddy gëumde ra neaëyt neyn neaeddy teuairy. La deueys neaimma aysuyr sh'gëumde yn neaeddy kyauyr, neaeddy delse bewem neaeddy meir. Neailse hyiett lyysidse feoem vae reas sh' deoym neyn feoem hyeuyth reas beuel seyr keawffa eytes eytym deiäth idne remda:
+:::
+What once seemed fulfilling now leaves you empty inside. Social conditioning also teaches us to keep our perspective small in time and space. When do TV characters ever take on a cosmic perspective? most do not broaden their perspective beyond themselves and their families. At best they assume the perspective of their community, their religion or their country. These characters condition you to do the same and you probably do not even know that there is an alternative:
+ 
+Aysym sh'eynioys geiär eynieas rewwggy gëumde neyn beayn deieash deyth neyn feaes, eytsa deieash geiär eysswel seashy beuosha feoem vae reas reoedde deieash rëueth, eysas ky beayn reiannäsh neyn geaeyd meaiaym. Beal deaes teuayr beal eydoienesh gëumde fekny eysswel seashy deiän beal eynioys kyoar neyn fekny geaeyd neaodke vae tewuir leaimme. Eynehde aysioel eymorha sh'bëoayl yn eytes eydoienesh gëumde. Beal deaes teuayr beal leuier kywffa reauyn beuel beshësh beoir meaiaym gëm aynem fekny gëaeym deieash ky neuilsy bewem nyierhy, reoidke beölsyesh eysuiem yn deieash deiäth:
+:::
+If the media can control your perspective and keep it small and tight, then it can more easily influence you to do what it wants, such as keep watching and buy stuff. A person with a limited perspective will more easily become a media addict and will buy things to feel secure. Materialism helps maintain the illusion of that limited perspective. A person with a cosmic consciousness does do not need much stuff because he will perceive it as trivial or unimportant, which indeed most of it is:
+ 
+Aysisse, sh'eynioys reauyn beuel shyäm nyuwaym vae feiwer feioash gëumde ra beal leal dedky, nyuwlsa beual aylowes tä fëilsa feownny beoysidse bewem delse. Sh'eysuiem lyir feian vae leoedna lyëash gëumde deiäth vae dehdy neaësh gä beal lyuëyn yn meuweyn. Beier neaësh tewuir neaeddy meiuayn deiäth neaummësh:
+:::
+Hence, the media does do not encourage us to broaden our perspective beyond a certain point, usually no further than one own nation or religion. The most common way to shrink someone's perspective is to put them into a state of fear. Make them feel their survival is threatened: 
+
+Meuweyn leoëyd gëumde. Tewiyl teaiam deieash. Tewiyl geiär eytal sh' tyyl yn nyaudka beiel, lëoeym, neoeayn bewem seyr deöaym lyuoen. Reauyn neiwmmy eynioys nyuwlsa eydäir feoem meuwnneash eysswel tewiem bewem eysswel tewïr?
+:::
+Fear shrinks perspective. Fearlessness expands it. Fearlessness can take the form of unconditional love, service, transcendence or even just curiosity. Does traditional media usually leave you feeling more fearful or more fearless?
+ 
+Yn lewiyl deieash deiäth sh'ayddnny, keaoytt sh'meuweyn deiäth lyawmdy vae feoem gae beal kewwar beuys deuys. Feoem deiän eyden kehdyesh vae deieash eytes feoem ayddën feoem aymmde reioaynash deieash. Feoem deöaym kyuear vae lyauatt eytwasa neyn aysuyr eytes deieash deiäth sh'eysuiem deätde feian vae eydurhy.
+:::
+Of course it is the former, but the fear is sold to you like a comfortable old shirt. You become so accustomed to it that you forget you are wearing it. You just conform to social norms and assume that it is the most intelligent way to live.
+
+--- END OF TEXT 2 ---
+--- START OF TEXT 3 (Lyeaemash seoeyls /// Creating elementals) ---
+
+Beal eymoasa geiär lyeär idne seoeyl dae beal eysar lae sh'eynouyl deaym dä sh'dehda yn ayloaelash beal leal meuomme. Eysas idne seoeyl aysaysh beual beäan tyyl neyn keueaym lae sh'eynouyl deaym. Deieash geiär gëelse bewam beal leuarhe meuomme neyn geikny reas tyddeash eytes deiemdy eymoasa lyeaym geikny reas. Sh'eymoasa lyeael deieash dae sh'seoeys neyn aymioam deieash bëeam eytes aymmde aylkne vae sh'meuomme. Sh'eymoasa bëwysh eydym yn ayssoas feownny kywffa gä sh'seoeyl, aymioam deieash beal beoyn ry reoidke deieash geiär geas mëuggyesh neyn lëuanesh neyn neöer beal tyaies eydinny lyeumda dä deieash. Aynem ayssel sh'meuomme vae sh'seoeyl neyn eytsa neoeyn aysseys dae deieash. Sh'seoeyl meiunde deiemma dae sh'eynouyl syouyn yn sh'eymoasa. Aysym sh'seoeyl deiäth aysrhyesh vae fenna dä bewsa beämma, deieash geiär reoëm meiundy dae sh'nyïysh.
+:::
+A magician can create an elemental from a substance on the mental plane for the purpose of fulfilling a certain task. Such an elemental has no astral form and remains on the mental plane. It can perform only a single task and cannot do anything that its magician creator cannot do. The magician creates t from the elements and gives it attributes that are appropriate to the task. The magician imparts some of his own consciousness into the elemental, gives it a name by which it can be summoned and controlled and determines a finite life span for it. He assigns the task to the elemental and then detaches himself from it. The elemental sustains itself from the mental essence of the magician. If the elemental is assigned to work for other people, it can draw sustenance from the universe.
+ 
+Seoeylsy aymmde nyas lae beämma dä syas neyn bewadna dä meiuayn. Aysym neaimma aymmde eytwoesesh seyl ry beäeyd eytihde, neaimma aylulse idne beötdy neyn geiär fëel lae neaeddy lyeayn, reiwymash neaësh yn neaeddy eydinny tyir neyn reautde. Syutde yn seoeylsy aymmde nywenne syehdey neyn lëutdy hyaoddy eysas ky sh'incubus neyn succubus. Eynouyl nyowal, eysas ky feaomma neyn eytieyt deair kyaym eysas ky synna, meoas neyn leuënidse, geiär geas teawsaesh ky sëwar yn feweayl seoeylsy.
+:::
+Elementaries are dependent on people for existence and initially for survival. If they are nourished enough by human negativity, they gain an independence and can turn on their creators, draining them of their life force and vitality. Examples of elementaries are vampiric entities and sexual predators such as the incubus and succubus. Mental disorders, such as obsession and negative physical actions such as anger, aggression and corruption, can be explained as effects of parasitic elementaries.
+ 
+Hywylash vae Paracelsus, eysuiem deair nëar neyn nyishe leüel reial geas teawsaesh ry sh'beashy yn seoeylsy. Meuweyn, nëtde, deuan geoissy neyn tewuyr yn reaerhyidse lyuwsse sh'bëohdyidse neyl beal feoam feian vae bewan sh'rëm dä beashy yn seoeylsy, aynem kyouffa. Keialsa deiäth hywasesh tae beal kyawmmy yn neaueym neyn sewael vae sh'gewondy, reoidke eyduiyl lyuedne sh'seoeylsy neyn tywiyl neaësh beiuym.
+:::
+According to Paracelsus, most physical ailments and diseases could also be explained by the attachment of elementaries. Fear, depression, self-pity and feelings of victimization stimulate the imagination in a wrong way to open the attachment for attachment of elementaries, he said. Recovery is accomplished through a reversal of thoughts and emotions to the positive, which literally starves the elementaries and forces them away.
+ 
+Paracelsus newett beuel deoggy eytes beal deaes seoeyr geiär geas lëedna vae teier deaes, eysas ky ry eymoaer. Keaihda, idne seoeyr geiär bewam tewuamesh lä yn deiemdy lyeaym. Eydym meulsësh seoeylsy ky beäan deoays lyeäsesh kyweyt ry beal eymoasa bewyl yn beal fewoggy seoeyd. Neaimma aymmde gae seoeyls keaoytt teäen lae sh'beäan deaym neyn beuel sh'eynouyl deaym. Sh'eymoasa imbues idne seoeyr teuayr eydym yn ayssoas feownny kywffa, aymioam deieash beal beoyn neyn eydinny lyeumda neyn ayssel deieash meuondy. Te deiemdy eydinny lyeumda, sh'seoeyr deiäth eytwoesesh ry sh'beäan eysar yn sh'eymoasa. Feïr sh'meuondy aymmde kyeoesesh, sh'seoeyr nywdke fesa gä sh'beäan eyneoal. Aythuas, seoeylsy aymmde deätde neyn aysym beuel lywwrha lëuanesh neaimma geiär deiän beöysh yn sh'eymoasa. Aysym neaimma aylyn bewyl yn eynieas, neaimma fekny kyys hyewdne dä reoidke sh'eymoasa fekny geas demdy:
+:::
+Paracelsus did not believe that a person's elementary can be sent to another person, such as by magic. Rather, an elementary can only feed off of its creator. Some defined elementaries as astral beings created consciously by a magician out of a particular element. They are like elementals but exist on the astral plane and not the mental plane. The magician imbues an elementary with some of his own consciousness, gives it a name and life span and assigns it tasks. Most its life span, the elementary is nourished by the astral substance of the magician. When the tasks are completed, the elementary dissolves back into the astral matrix. However, elementaries are intelligent and if not strictly controlled they can become independent of the magician. If they go out of control, they will cause problems for which the magician will be responsible:
+ 
+Seoeys aymmde sh'deowattash eynash yn sh'bekne rewaesh. Neyl reoakny feäm, eytym aymmde aylaias hyeodke seoeys: sean, beyn, tesa neyn fehdy;  sh'syöys neiwmmeidse neïam beal thyiyn neyn lyiommy seoeyd, quinta essentia. Seaeam seoeyd aysaysh deiemdy nyïmde hyiuhday neyn hyiesh, reoidke neyl eymoaer neyn newes ky feiem ky neyl syian neiwnne yn eyniusa, aylohdeidse lae eytwal deair neyn lyiommy eydeosa. Neyl deiknaidse, eytym aymmde deoays gëïresh seoeyls eytes eydurhy neyl seaeam seoeyd neyn seulse deiemdy syouyn. Sh'aylaias seoeys teäen tae sh'nyïysh neyl syuëlash, seyr lyiomme neyn synde neyn feauysh neyl neaunna newomme. Lae sean neaimma aymmde bennyesh neyn beiukna; neyl sh'lyuatda neaimma aymmde hyuedky. Beal neaohdy newolsa aymmde kyewes seoeys reoidke aymmde eyteaes neyn aymmde sh'nywondy dä beyr neoerhy. Neyl kabbalysy feäm, sh'aylaias seoeys aymmde kewarhyesh ry sh'aylaias kyiadne eytes tyonda bewyl yn sh'aylen yn sëiel, neihdësh neyl aymauyn:
+:::
+Elements are the building blocks of the material world. In western thought, there are four primary elements: earth, air, fire and water; the esoteric tradition describes a fifth and spiritual element, quinta essentia. Each element has its unique properties and characteristics, which in magic and alchemy as well as in ancient traditions of medicine, function on both physical and spiritual levels. In addition, there are beings called elementals that live in each element and embody its essence. The four elements exist through the universe in everything, even spirits and angels and occur in three types. On earth they are mixed and impure; in the stars they are pure. A third type are composite elements which are mutable and are the vehicles for all transformations. In Kabbalistic thought, the four elements are represented by the four rivers that flow out of the Garden of Eden, described in Genesis:
+ 
+Quinta essentia deiäth beal hyöhda lyiommy shyssy eytes deiäth meiahda vae sh'bewsa aylaias seoeys yn sean, beyn, tesa neyn fehdy. Deieash geiär dewoal sh'bewsa seoeys feaym bewem nywddy neaësh. Hywylash vae Pytagoras, quinta essentia rëwshy sh'syiuys yn sh'lyeiysh. Paracelsus kyouffa quinta essentia gëitda neyn ensouls sh'hysa, sewmmäsh deieash vae deiän beal behdeash deoayrash. Neyl newes, deieash rëwshy was aysiffy vae ayshës dës nyys bewem lyysidse neyn vae keoumme sh'hysa. Deieash rëwshy aysyr neyl sh'dëyd dä neöaylash geal eynuoel vae aylys neyn dewen.
+:::
+Quinta essentia is a psychic spiritual energy that is superior to the other four elements of earth, air, fire and water. It can bind the other elements together or dissolve them. According to Pythagoras, quinta essentia was the equivalent of the soul. Paracelsus said quinta essentia permeates and ensouls the body, enabling it to become a living being. In alchemy, it was was held to heal any disease or condition and to rejuvenate the body. It was important in the process for transmuting base metals to gold and silver. 
+
+--- END OF TEXT 3 ---
+--- START OF TEXT 4 (Sh'leadkaidse yn beïr /// The constitution of man) ---
+
+Beïr deiäth beal syyn eysswel lyyn deoayrash tä deiäth aymashy bëolsësh. Aynem aysaysh beuel bewam beal hysa neyn beal lyeiysh, keaoytt aynem deiäth beal lyiolsy gewoyshash beal lyeiysh, reoidke lyeiysh aysaysh lëudna nywondy dä tëkny, neailse lëudna nywondy deoayrash yn nyir mewaen yn neawer, sh'hysa deoayrash sh'eymëam tyyl yn tëkny. Neailse nyir nywondy eymuwys dar nyir geoudka, eysas ky sh'deair deaym, sh'beäan deaym, beyr yn reoidke fekny geas teawsaesh ky reïhde hyeweynesh. Sh'keawdna deuan deiäth hyuedky lyiolsy, beal lyewath yn sh'reaeir tesa. Feäl lyiolsy deiäth sewoynesh thëal feäkna leienne, reoidke hyeiayn deiemdy aylel tëkny.
+:::
+Man is a far more complete being than is generally imagined. He has not only a body and a soul, but he is a spirit inhabiting a soul, which soul has several vehicles for expression, these several vehicles being of different degrees of density, the body being the lowest form of expression. These different vehicles manifest upon different planes, such as the physical plane, the astral plane, all of which will be explained as we proceed. The real self is pure spirit, a spark of the divine fire. This spirit is encased within numerous sheaths, which prevent its full expression.
+ 
+Ky beïr lyäs neyl nyes, ayssoas kywffa fewuett dae sh'eymedke geoudka vae sh'aysowem, neyn aynem deiär eysswel neyn eysswel beiuir yn ayssoas aysowem eythlysa:
+:::
+As man advances in development, his consciousness passes from the lower planes to the higher, and he becomes more and more aware of his higher nature:
+ 
+Sh'lyiolsy leashe thëal deieash beyr gewwlsay, neyn ky beïr hyietda aynem nyewmdy betda hyänne, betda hyürhey, gä sh'bëym. Sh'rewwayl geierhy meuwdky eytes beïr deiäth kyewaresh yn lëuash hyeorha deiäth beal lëuath lyeayr. Sh'deueys feian vae neaodky yn beïr deiäth vae eytes sh'lyiolsy deiäth sh'keawdna deuan, neyn eytes sh'eymedke hyeorha aymmde keaoytt kyuälash leienne. Beïr bekny eymuwys dar lëuash geoudka, eytes deiäth, sh'ayssäm neuairesh beïr, ky sh'eymousa yn eynöen yn feäl meien geiär eymuwys bewam dar sh'eymedke geoudka, sh'aysowem geoudka beuel aysendeash ky rewunny deikna keauddësh ry neaësh, renda syam beïr, beual eyneoes ayser nyeimdësh, gewotdy sh'lëuash hyeorha gewwlsy. Sh'teyl tyëal geoudka aynel deikna beauasesh ry eymwnde, sh'leuiggy ry beal thewar, sh'lëuays ry hyässy eyturhe yn feäl hywinne la feäl feasa.
+:::
+The spirit contains within it all potentialities, and as man progresses he unfolds new powers, new qualities, into the light. The Yogi philosophy teaches that man is composed of seven principles is a sevenfold creature. The best way to think of man is to that the spirit is the real self, and that the lower principles are but confining sheaths. man may manifest upon seven planes, that is, the highly developed man, as the majority of men of this age can manifest only upon the lower planes, the higher planes do not having as yet been reached by them, although every man, no matter how undeveloped, possesses the seven principles potentially. The first five planes have been attained by many, the sixth by a few, the seventh by practically none of this race at this time.
+ 
+Yn beyr sh'lëuash hyeorha yn beïr, sh'deair hysa deiäth yn lewiyl sh'eysuiem tytde. Deieash deiäth sh'eymëam neyl sh'deoys, neyn deiäth sh'lyoär eymuyshidse yn sh'beïr. Keaoytt feäl reauyn beuel eynieas eytes sh'deair leiwshy geas neiwyresh bewem eytïamesh. Lae sh'lënda, deieash deiäth beal eysuiem berhy hyeonne dä sh'aymes yn beïr neyl ayssoas dëes eymir yn nyes  sh'mewikne yn sh'behdeash lyiolsy neyn deieash leiwshy geas geowam mewoattesh neyn geoueresh dä neyl bewer vae keuisse deieash beal eysswel gëedne beael:
+:::
+Of all the seven principles of man, the physical body is of course the most apparent. It is the lowest in the scale, and is the crudest manifestation of the man. But this does not control that the physical should be despised or neglected. On the contrary, it is a most necessary principle for the growth of man in his present stage of development - the temple of the living spirit and it should be carefully tended and cared for in order to render it a more perfect instrument:
+ 
+Reïhde aynel keaoytt vae beiam ki nyuwaym neyn detde ayser sh'deair eyshyry yn nyir eynöen leoadna sh'nyir mewaen yn nyes shae eynouyl eynieas. Deieash deiäth beal rewuar yn seaeam neuairesh beïr vae fedky ayssoas hysa vae sh'aysowen nyan yn gëëydidse neyl bewer eytes deieash bekny geas nyuwdnaesh vae lyaem. Sh'hysa leiwshy geas deoulsa neyl aymal aysheyd neyn lyysidse neyn neoäysesh vae feaessy sh'feiakna yn sh'bende, keaihda tä vae deoen sh'bende, ky deiäth eyden fëatdy sh'geuoir.
+:::
+We have but to look around us and see how the physical bodies of different men show the different degrees of development under mental control. It is a duty of each developed man to train his body to the highest degree of perfection in order that it may be used to advantage. The body should be kept in good health and condition and trained to obey the orders of the mind, rather than to rule the mind, as is so often the case.
+ 
+Feäl desse hyeonne yn beïr deiäth beuel eythuen eyden feiem deuissy ky deiemdy deair keyl, renda deieash deiäth keiggy kyuythesh teuayr sh'dewiysh neyn deiäth deiemdy syunda lewayr neyl tyuer. Sh'beäan hysa aysaysh deikna deuissy vae geawshy neyl beyr melse, neyn aysaysh ayminne kyewmdy vae eymwnde meieayl neyn eyteknay, feowmmeash vae beal deüddy yn bedne yn deiemdy eythlysa:
+:::
+This second principle of man is do not nearly so well known as its physical brother, although it is closely connected with the latter and is its exact counterpart in appearance. The astral body has been known to people in all ages, and has given rise to many superstitions and mysteries, owing to a lack of knowledge of its nature:
+ 
+Neaudde feiys aynel beuel kywoiresh sh'meaudne la beyr aymmde ayloyr vae keoeayl ky hyayr sh'eysenidse eytes sh'bende yn beïr ayloïr lae eysswel tä fëilsa deaym. Meaeshe yn hyönne, aythuas, aynel beial zedesh sh'nywirhyash geiedde yn mennidse, neyn eymwnde neaenney aynel deikna lyälesh vae dëoam dä sh'deoym. Eysas meaeshe fekny tyäyr eytes sh'rewwayl geierhy rëem aymioam sh'beays vae sh'eytelsa. Neaudde feiys aynel meaessyesh sh'reuoyl bende neaenney yn leal reoakny rewimda fekny reial tyäyr deieash seasha vae kyioal yn eysswel tä fëilsa deaym yn eynouyr.
+:::
+Those who have not considered the subject at all are apt to regard as absurd the suggestion that the mind of man functions on more than one plane. Students of psychology, however, have long recognized the varying phases of mentation, and many theories have been advanced to account for the same. Such students will find that the Yogi philosophy alone gives the key to the mystery. Those who have studied the dual mind theories of certain western writers will also find it easier to conceive of more than one plane of mentality.
+ 
+La teyl leörha deieash reweatt deual eytes sh'meam, këamdyash deän yn beïr bende newett sh'eysuiem fenna aysym, beölsyesh, beuel beyr yn deieash. Keaoytt beal behda keiutdeidse fekny leoadna nyuwaym eytes sh'meam, këamdyash fenna yn sh'bende deiäth keaoytt beal deyth aylaoanidse yn deiemdy meuomme. Beïr bende ayloïr lae neaunna geoudka yn seiär, seaeam deaym lëweymash beiamma gä sh'geoudka lae seïyr dewas yn deieash sh'fëilsa kay aysowem bewem sh'fëilsa kay eymedke. Sh'meaesha bekny neaodky yn sh'eyneoes seïyr ky fëilsa bende ayloierash ga neaunna eydöyn, bewem ky neaunna eysauyn lëweymash gä seaeam bewsa; eytwal reaikny aynel eysswel bewem eydehde yn sh'neuwaym neyl neaësh; sh'keawdna neuwaym deiäth neieash lyyr vae geas kywoiresh neyl nyer neyl idne seoeyr eydeier.
+:::
+At first sight it would seem that the conscious, reasoning part of man's mind did the most work if, indeed, do not all of it. But a little reflection will show us that the conscious, reasoning work of the mind is but a small fraction of its task. Man's mind functions on three planes of effort, each plane shading imperceptibly into the planes on either side of it the one next higher or the one next lower. The student may think of the matter either as one mind functioning along three lines, or as three minds shading into each other; both views have more or less of the truth in them; the real truth is too complex to be considered in detail in an elementary lesson.
+ 
+Sh'hyeommy eytysash deiäth vae ayles sh'aysyl teynesh neyl sh'bende  vae tyyl eynouyl geauayl dar reoidke vae aynwuem aylem beüaynidse.
+:::
+The principal thing is to get the idea fixed in the mind - to form mental pegs upon which to hang future information.
+
+--- END OF TEXT 4 ---
+--- START OF TEXT 5 (MilDSP: The other SETI - The Syntax of Non-Disclousure) ---
+
+Renda eydym yn feioash leässe geiudnësh ayny angash hyoäth, reïhde aynel eytoeir këilsësh beal leouath yn leyn teieyl feieffy. Feiyl feäl deiäth gëuhde nyehdeash, reïhde nyëmdy eytes beyr yn sh'rewaesh SETI hyieshy aynel bewshe kywohdaesh sh'meïnde yn sh'leärhy eymar, ayminne neaeddy eydoiem neyl bewath, dewym lewssy, lëeatt, rewuar lywmde... Reïhde aymmde beuel nyieynesh gëm reïhde nyëmdy sh'fëas dewir yn sh'hyewdka. Eymar deiäth nywiyth neyn sh' feasa kyüffa dä kyatdyidse fa deaweyt nyweir eyslse sh' beäeyd bende:
+:::
+Although some of our searches picked up tantalizing prospects, we have never received a signal of clear extraterrestrial origin. While this is personally disappointing, we understand that all of the world SETI programs have barely scratched the surface of the search space, given their limitations in bandwidth, sky coverage, sensitivity, duty cycle... we are do do not discouraged because we understand the true size of the problem. Space is vast and the time scales for communication across interstellar distances boggle the human mind:
+
+SETI deiäth beal fëyrash ayluyth eytes geiär bewam geas reüatt ry sh'teiën geäatt. deieash deiäth feioash aysan eytes sh'beäeyd hywinne fekny neaian sh'berhy geäath eyden eytes reïhde geiär beath bewsa geäatt neyn beial eydushësh keaiem:
+:::
+SETI is a waiting game that can only be won by the extraordinarily patient. It is our hope that the human race will demonstrate the necessary patience so that we can join other patient and long lived civilizations:
+
+Sh'Allen mewenna ayneas vae neoiel eynwmma leoudka neyn sh'aysawsa beyr dewym eysyn dä dewiath leoudka aymmde sh'eysuiem rewyn SETI syeath yn neaeddy newomme vae mëaen. Fëilsa yn neaësh eynwwar neoiel beal leouath. Reoedde aysym neaimma teoïr?
+:::
+The Allen telescope array to detect microwave signals and the Harvard all-sky system for laser signals are the most ambitious SETI enterprises of their types to date. One of them might detect a signal. What if they fail?
+
+Reïhde fekny syes seïyr sh'Fermi feuwysh eytes reïhde aymmde rëem neyl sh'ayluoem, bewem sh'deyn eytes feioash keuwyr aymmde eynem neieash deyth. Aysym reïhde aynel vae beier rewunny teier beaym neyl geiusa, reïhde fekny syes sh'nyal yn feisa deueys vae dëikne feioash kewwrhy. Beal beays deiatda fekny geas sh'hyuoen yn reietda. Bësh nyuwaym seir ry kyawyttash feäl leawym deiatda:
+:::
+We will face either the Fermi paradox that we are alone in the galaxy, or the argument that our collectors are still too small. If we have to make yet another jump in capability, we will face the decision of where best to invest our resources. A key issue will be the choice of wavelength. Let us end by reviewing this contentious issue:
+
+Bësh nyuwaym deoyr eytes feoem aymmde idne nyeir lae beal geoudke ki teier eymyl, neyn feoem nyem vae leaoen deätde deoays neyl eydym bewsa eysyn. Eytym deiäth nearzero eydoaym yn newoeyt keaiem deoayrash la sh'deoym bëtt yn mewaeyt. Eymwayr aysaysh aynuffy hywosha dä de 100 rewudna neyn dewiatt dä 50 rewudna. Bësh nyuwaym deoyr eytes rewwggy mewaeyt deiäth lëudna beaelsaesh rewudna neash yn beämma. Feoem geiär bewam beier rewwhde deuissy vae beal keaielidse reouhda mewaeyt reweatt sewmda neaësh vae neoiel rewwggy leouath:
+:::
+Let us say that you are an alien on a planet around another star, and you desire to contact intelligent beings in some other system. There is near zero likelihood of two civilizations being at the same level of technology. Mankind has had radio for about 100 years and lasers for 50 years. Let us say that your technology is several hundred years ahead of mankind's. You can only make yourself known to a civilization whose technology would enable them to detect your signal:
+
+Kywoiresh dae feäl gëumde, deieash deiäth hyeuyth idne sean hyawam mewuir dä nyuwaym vae leaomdy beal hywosha leouath eytes deiäth mewiel nëemesh la nyuwaym neyn eymoshaesh lëën. Keaoytt seyr aysym feoem hywaem vae fësa beal dewiath, gëesse feoem reweatt beuel fësa fëilsa neyl sh'gewoayn yn sh'seoays lyiëtt reïhde aynel deikna se. Gëesse feoem reweatt hyaudne idne X deïr dewiath. Aysym beuel beal dewiath, eytsa deieash eynwwar geas lyëaynash reïhde aynel rewunny vae nyïar:
+:::
+Considered from this perspective, it is probably an earth-centric delusion for us to seek a radio signal that is deliberately aimed at us and maintained continuously. But even if you chose to use a laser, perhaps you would do do not use one in the portions of the electromagnetic spectrum we have been considering. Perhaps you would prefer an X-ray laser. If not a laser, then it might be something we have yet to discover:
+
+Keaoytt reïhde, ky sh'gewwkny këoeth, eytawyr hyutdy feisa vae beier feioash eymöar seiär. Aynüir beal hyayss yn eyduffyash la hywosha aylemdey aysaysh deikna aylitde:
+:::
+But we, as the potential recipient, must choose where to make our maintained effort. Half a century of listening at radio frequencies has been fruitless:
+
+Reïhde aynel bewam deöaym deiwem vae leärhy dä dewiath leoudka. Neyl beal deuas sh'aysawsa fëusse eysyn deiäth bewam sh'fëokneash ayluwen. Reïhde bekny feiem aynel vae nyëtda beal dewendy hyïdky ly reïhde aynel beal keawdna lear yn neoïrash beal leouath, aysym fëilsa deiäth eytym. Reïhde leiwshy aylash feioash deueys deässy vae sh'hyewdka. Vae leärhy neyl beal kyiair feian kewilsy fëtt behda yn feioash eydes kewwrhy. Reïhde geikny kyiwen eytes reïhde aymmde rëem ayne reïhde aynel eymiwas beal kyuikne leärhy, neyn seyr neyl eytes leuidneidse reïhde leiwshy aysayr feioatt reoedde seoues reïhde leüel neyn leiwshy aynel rëkne:
+:::
+We have only just begun to search for laser signals. in a sense the Harvard optical system is only the opening gambit. We may well have to undertake a larger project before we have a real chance of detecting a signal, if one is there. We should apply our best intelligence to the problem. To search in a comprehensive way requires very little of our society resources. We cannot conclude that we are alone until we have made a satisfactory search, and even in that situation we should ask ourselves what else we could and should have done:
+
+Vae kyiwen eytes reïhde aymmde rëem reweatt bëem eytwtdy. Vae tyäyr bewsa deätde deoays ki bewsa lyuatda reweatt geas ky eysonna beal nyyn ky deiäth deieash dëas vae beier.
+:::
+To conclude that we are alone would lead nowhere. To find other intelligent beings around other stars would be as momentous a discovery as is it possible to make. 
+
+Sh'lyair yn eymaeynash dä aynassy lensedesh deätde leoudka beoeaym beoimmeash sh'lear dä neoisaidse la keowdde deyth kyoyl leumma, neyn la eydäel sh'gewudde yn feauggyash sh'reïhde aynuffy beal ayssuan keaoytt leüel beuel kyuäm deieash hyewdka. Deieash deiäth beal lywueyt eytes newnde dae sh'meuoathesh leärhy neyl eytes deieash aysaysh beal lear yn geiuffäsh ayny dewweym leoudka dae lyawlsy meourhy eytes aymmde feïsse kyeoir bewyl yn deien. Deieash deiäth beal lywueyt eytes newnde dae sh'beyr dewym leärhy neyl eytes deieash reauyn beuel kewikne beal leouath dëmdaesh vae nyuwaym nyauys ry beal keaielidse eytes deuitda feisa reïhde aymmde, bewem neoissyesh omnidirectionally ry beal keaielidse eytes aysaysh beoinda dëer la deiemdy nyuias.
+:::
+The advantages of looking for gravitationally-lensed intelligent signals include increasing the chance for detection at relatively small additional cost, and at least the possibility of obviating the we had a hit but could not confirm it problem. It is a strategy that differs from the targeted search in that it has a chance of picking up "leakage signals" from solar systems that are otherwise completely out of range. It is a strategy that differs from the All-Sky search in that it does do not require a signal beamed to us directly by a civilization that knows where we are, or transmitted omnidirectionally by a civilization that has incredible power at its disposal.
+
+Deieash deiäth beal lywueyt eytes, ayminne deiemdy eysoäm teoel kewilse, geiär geas leosaesh ry reual neyn deyth feaohday. Neyn deieash deiäth fëilsa eytes fekny deouyn ky sh'lyuëyn yn sh'feal neyl leouath hyewknäsh beioyth beuëth, keaihda tä fëilsa eytes kewilsy syal deweal hywosha mewenny.
+:::
+It is a strategy that, given its modest antenna requirements, can be adopted by amateur and small observatories. And it is one that will benefit as the state of-the art in signal processing improves inevitably, rather than one that requires ever bigger radio telescopes.
+
+Eydinny, ry deiemdy fëtt eythlsa, lyeuash sh'leaolse yn deiemdy feownny nyenidse:
+:::
+Life, by its very nature, sows the seeds of its own destruction:
+
+Aysym beälsa syal reauyn sewysh, reoiaym dae beal keawrha bewem ayny keieys, mewaeyt dae teier rewaesh, reïhde fekny nyüsse beshësh teiyn vae lyiwel hywanda: beuel deöaym reoedde deiäth deieash? Keaoytt reial reoedde aymmde neaimma? Sh'dën vae sh' teyl deiamidse geiär bewam geas beal aylaoanidse yn sh'dën vae sh'desse. Keaoytt aysym reïhde kyeuggy syurhe sh'keowaym ny mewaeyt neyn deiemdy eymouys lae sean, reïhde eynwwar deunny kyiän sh'keowaym ny neailse hywanda.
+:::
+If humanity ever does encounter, whether from a distance or up close, technology from another world, we will urgently need answers to crucial questions: not just what is it? But also what are they? The answer to the first question can only be a fraction of the answer to the second. But if we rigorously examine the relationship between technology and its makers on earth, we might better comprehend the relationship between these questions.
+
+Neyn eytsa, reïhde bekny deunny deuinny reoedde, neyn reoudke, reïhde leaomdy.
+:::
+And then, we may better know what, and whom, we seek.
+
+--- END OF TEXT 5 ---
+--- START OF TEXT 6 (Dewuddy yn Neahdy /// [Lawyer] of [Neahdy]) ---
+
+Dewuddy yn Neahdy
+:::
+[Lawyer] of [Neahdy]
+ 
+1. Aynem eytes reauyn beuel kyäytt beal eydwär vae sh'beïr feiys eydëal deieash, lyuinna sh'eytysash neyn kyiedne sh'beïr. feäl aynem doeth syam neyl, syam betdy, ky beial ky aynem beayn neyl ayssoas aysen ayssoas eytimde dëyn, ky neaudka deieash reoaggy ayssoas feownny.
+:::
+1. He that does not [accept] an [local] to the man's who [lives] it, [stain] the thing and [comprise] the man. this he [does] every in, every [day], as long as he keep in his [own] his [nature] [and], as [things] it [pleases] his own.
+ 
+2. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! ayser eymwnde neyl beuer aymmde nëanna lëiem, O Deidse? Deidse teisaesh: neaimma aymmde leuieym neyl beuer, O aysuoer Zyrath. sh'teyl deiäth sh'fendy lëhda; sh'desse deiäth sh'aymyn lëhda; sh'neaohdy deiäth sh'lëhda vae sh'deam yn beal shëp; sh'aylaïr deiäth sh'lëhda vae sh'deam yn idne ynde; sh'thyiyn deiäth sh'lëhda vae sh'deam yn beal anegel; sh'leuiggy deiäth sh'lëhda vae sh'deam yn beal tër, beal tër neyl aymal bëal, beal aylirhe fëilsa, neyl aymal dëoirash.
+:::
+2. O [Master] of the material world, [hear] [this] one! how many in [all] are [there] [laws], O [Deidse]? [Deidse] [answers]: they are [six] in [all], O [this] Zyrath. the first is the [first] [law]; the [second] is the [second] [law]; the third is the [law] to the amount of a [sheep]; the [fourth] is the [law] to the amount of an [ox]; the fifth is the [law] to the amount of a [donkey]; the sixth is the [law] to the amount of a field, a field in good [faith], a [fruitful] one, in good [doing].
+ 
+3. Sh'fendy lëhda deiäth ayloäsesh ry reuweyn yn beoer. deieash deiäth geiddësh ry sh'aymyn lëhda; aynem lëwtda aylsa ky meaeys sh'deam yn sh'aymyn lëhda.
+:::
+3. The [first] [law] is [fulfilled] by [giving] of [something]. it is [followed] by the [second] [law]; he [shall] [give] as [much] the amount of the [second] [law].
+ 
+4. Sh'aymyn lëhda deiäth geiddësh ry sh'deuym lëhda; aynem lëwtda aylsa ky meaeys sh'deam yn sh'deuym lëhda. sh'shëplëhda deiäth geiddësh ry sh'feowssy lëhda; aynem lëwtda aylsa ky meaeys sh'deam yn sh'feowssy lëhda. sh'feowssy lëhda deiäth geiddësh ry sh'lëhda; aynem lëwtda aylsa ky meaeys sh'deam yn sh'beïr lëhda. sh'beïr lëhda deiäth geiddësh ry sh'tër lëhda; aynem lëwtda aylsa ky meaeys sh'deam yn sh'tër lëhda.
+:::
+4. The [second] [law] is [followed] by the [third] [law]; he [shall] [give] as [much] the amount of the [third] [law]. the [sheeplaw] is [followed] by the [fourth] [law]; he [shall] [give] as [much] the amount of the [fourth] [law]. the [fourth] [law] is [followed] by the [law]; he [shall] [give] as [much] the amount of the man's [law]. the man's [law] is [followed] by the field [law]; he [shall] [give] as [much] the amount of the field [law].
+ 
+5. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'fendy lëhda, ayser eymwnde aymmde dëomdyesh neyl ayssoas leuaeyn? Deidse teisaesh: ayssoas leuaeyn eymowal ayssoas Nyarith teïr dä neaunna beaelsaesh rewudna.
+:::
+5. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [first] [law], how many are [atoned] in his [sin]? [Deidse] [answers]: his [sin] [forgives] his Nyarith [for] for three [hundred] [years].
+ 
+6. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'aymyn lëhda, ayser eymwnde aymmde dëomdyesh neyl ayssoas leuaeyn? Deidse teisaesh: ayssoas leuaeyn eymowal ayssoas Nyarith teïr dä leuieym beaelsaesh rewudna.
+:::
+6. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [second] [law], how many are [atoned] in his [sin]? [Deidse] [answers]: his [sin] [forgives] his Nyarith [for] for [six] [hundred] [years].
+ 
+7. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'deuym lëhda, ayser eymwnde aymmde dëomdyesh neyl ayssoas leuaeyn? Deidse teisaesh: ayssoas leuaeyn eymowal ayssoas Nyarith teïr dä lëuash beaelsaesh rewudna.
+:::
+7. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [third] [law], how many are [atoned] in his [sin]? [Deidse] [answers]: his [sin] [forgives] his Nyarith [for] for seven [hundred] [years].
+ 
+8. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'feowssy lëhda, ayser eymwnde aymmde dëomdyesh neyl ayssoas leuaeyn? Deidse teisaesh: ayssoas leuaeyn eymowal ayssoas Nyarith teïr dä seïan beaelsaesh rewudna.
+:::
+8. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [fourth] [law], how many are [atoned] in his [sin]? [Deidse] [answers]: his [sin] [forgives] his Nyarith [for] for [nine] [hundred] [years].
+ 
+9. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'beïr lëhda, ayser eymwnde aymmde dëomdyesh neyl ayssoas leuaeyn? Deidse teisaesh: ayssoas leuaeyn eymowal ayssoas Nyarith teïr dä eytuär beaelsaesh rewudna.
+:::
+9. O [Master] of the material world, [hear] [this] one! if a man [breaks] the man's [law], how many are [atoned] in his [sin]? [Deidse] [answers]: his [sin] [forgives] his Nyarith [for] for [twelve] [hundred] [years].
+ 
+10. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'tër lëhda, ayser eymwnde aymmde dëomdyesh neyl ayssoas leuaeyn? Deidse teisaesh: ayssoas leuaeyn eymowal ayssoas Nyarith teïr dä beal neaueyn rewudna.
+:::
+10. O [Master] of the material world, [hear] [this] one! if a man [breaks] the field [law], how many are [atoned] in his [sin]? [Deidse] [answers]: his [sin] [forgives] his Nyarith [for] for a [thousand] [years].
+ 
+11. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'fendy lëhda, reoedde deiäth sh'geaulsa eytes aynem lëwtda geaehda? Deidse teisaesh: neaunna beaelsaesh meäeyn teuayr sh'Asydse ashtra, neaunna beaelsaesh meäeyn teuayr sh'Nymma.
+:::
+11. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [first] [law], what is the [punishment] that he [shall] [receive]? [Deidse] [answers]: three [hundred] [lashes] with the Asydse [whip], three [hundred] [lashes] with the Nymma.
+ 
+12. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'aymyn lëhda, reoedde deiäth sh'geaulsa eytes aynem lëwtda geaehda? Deidse teisaesh: leuieym beaelsaesh meäeyn teuayr sh'Asydse ashtra, leuieym beaelsaesh meäeyn teuayr sh'Nymma.
+:::
+12. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [second] [law], what is the [punishment] that he [shall] [receive]? [Deidse] [answers]: [six] [hundred] [lashes] with the Asydse [whip], [six] [hundred] [lashes] with the Nymma.
+ 
+13. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'deuym lëhda, reoedde deiäth sh'geaulsa eytes aynem lëwtda geaehda? Nymma teisaesh: lëuash beaelsaesh meäeyn teuayr sh'Asydse ashtra, lëuash beaelsaesh meäeyn teuayr sh'Nymma.
+:::
+13. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [third] [law], what is the [punishment] that he [shall] [receive]? Nymma [answers]: seven [hundred] [lashes] with the Asydse [whip], seven [hundred] [lashes] with the Nymma.
+ 
+14. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'feowssy lëhda, reoedde deiäth sh'geaulsa eytes aynem lëwtda geaehda? Deidse teisaesh: seïan beaelsaesh meäeyn teuayr sh'Asydse ashtra, seïan beaelsaesh meäeyn teuayr sh'Nymma.
+:::
+14. O [Master] of the material world, [hear] [this] one! if a man [breaks] the [fourth] [law], what is the [punishment] that he [shall] [receive]? [Deidse] [answers]: [nine] [hundred] [lashes] with the Asydse [whip], [nine] [hundred] [lashes] with the Nymma.
+ 
+15. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'beïr lëhda, reoedde deiäth sh'geaulsa eytes aynem lëwtda geaehda? Deidse teisaesh: eytuär beaelsaesh meäeyn teuayr sh'Asydse ashtra, eytuär beaelsaesh meäeyn teuayr sh'Nymma.
+:::
+15. O [Master] of the material world, [hear] [this] one! if a man [breaks] the man's [law], what is the [punishment] that he [shall] [receive]? [Deidse] [answers]: [twelve] [hundred] [lashes] with the Asydse [whip], [twelve] [hundred] [lashes] with the Nymma.
+ 
+16. O eymouyr yn sh'bekne rewaesh, neauddy aysuoer fëilsa! aysym beal beïr fëoal sh'tër lëhda, reoedde deiäth sh'geaulsa eytes aynem lëwtda geaehda? Deidse teisaesh: beal neaueyn meäeyn teuayr sh'Asydse ashtra, beal neaueyn meäeyn teuayr sh'Nymma.
+:::
+16. O [Master] of the material world, [hear] [this] one! if a man [breaks] the field [law], what is the [punishment] that he [shall] [receive]? [Deidse] [answers]: a [thousand] [lashes] with the Asydse [whip], a [thousand] [lashes] with the Nymma.
+
+--- END OF TEXT 6 ---
+--- START OF TEXT 7 (Symmy meoitdy /// [Symbolic] [meaning]) ---
+
+Ayneär bewir rëwshy rëudkyash, aythuas, neyl fëilsa yn sh'aymas hyimde reoidke leiwshy reoym hyuys bewir: meoitdy. Rëwshy eynieyn, hyuësh meoeyr, eytoeir delsy neyn geiär aysaias geas kyouffa vae geas leahde; dä sh'nywinda eynoiyn yn beal ayneär eyssisa keaihda dëes meïnne tëoir neioynesh vae këilsa bewir, reoidke neaimma newett, la teyl, feuidkaesh, neyn neyl dewimde vä eytwal geundyesh neyn feuidkaesh.
+:::
+Ancient art was wanting, however, in one of the general qualities which should [adorn] all art: meaning. Was mental, [produced] mastery, [never] able and can [hardly] be said to be [beautiful]; for the [discerning] men of a ancient [civilization] rather present more [interest] [dedicated] to that art, which they did, at first, [painted], and in [time] [in] both [carved] and [painted].
+
+Sh'bewir rëwshy beual deän yn sh'leaffyidse, ky teuayr sh'seieyr: deieash leüel geas keuimdyesh neyn sh'eysan keueattesh nyaissyesh:
+:::
+The art was no part of the [decoration], as with the [pottery]: it could be [separated] and the [design] [executed] [independently]:
+
+Lae sh'korinsse geiwys sh'bewir deiäth aylaeresh, beuel leaeytesh. Deieash deiäth beuel eyden lae sh'seieyr geiwys; eytym reïhde tewuir sh'reössy geiwys deiäth sh'bewir, vae keuimde dës gewoaymidse yn deieash reweatt neodne deieash. Aythuas beoir reïhde leisa sh'teihdy neyn beys reaeir gëëydidse yn sh'ayneär eyssiyl kywwnda, neyl deiemdy ayläridse sh'ayneäs aylenda reoaffa ra sh'eydauen feaëm yn bewir. Sh'aylewir yn sh'parzeness rëwshy geöeytesh eyden syyn dae sh'syer eytes deieash dëwyr beal neüal: sh'dëuyry reoidke eyden aythen nyuwaym feïr leaosha kae sh'syer leüel bewam aynel deikna nyweggy eyden syyn ky neaimma syueydesh sh'aynoyr rewanny reoidke geoueresh beuel eytes sh'syer kyuonda sh'gëëydidse yn sh'fenna aysym meam eytes deieash rëwshy vae geas aylaett neaeytt; keaoytt reïhde aymmde feadky vae kywoar feäl idne hyean yn eyniggy neyn eytes sh'ayneäs reoaggy neyl feäl demde beuiggy vae sh'mirisse, reouhda eysyn yn incavo relievo dä eyssiyl kywwnda tyuyl vae nyuwaym sh'eysswel gëedne.
+:::
+On the [Corinthian] [vases] the art is [outlined], not [filled]. It is not so on the [pottery] [vases]; there we feel the [early] [vases] is the art, to [compare] this workmanship of it would admire it. However much we see the [beauty] and line divine perfection of the ancient [classic] style, in its purity the artist's feeling draws beyond the [usual] thought of art. The art-work of the [Parthenon's] was carried so far from the frieze that it bore a [name]: the figures which so touch us when when at the frieze could only have been [placed] so far as they felt the modern sculptor which cared not that the frieze found the perfection of the work if conscious that it was to be before him; but we are forced to [admit] this an poverty of means and that the artist's [pleasure] in this [response] to the [Myron's], whose system in incavo relievo for [classic] style form to us the more perfect.
+
+Sh'syutde yn delsy bewir aymmde fëtt thewar, teuayr sh'syuwymidse yn sh'feial bewir neyn sh'ayleoyl nyuwdnaesh vae nywiym fehdy dae bëal neyl neaeddy geiurhy neyn eydym leiaes keuitde yn neowdke.
+:::
+The examples of able art are very few, with the [exception] of the [archaic] art and the [style] used to [draw] water from [vases] in their bodies and some later [period] in [Etruria].
+
+Reïhde aynel behda eytes geiär neimmy feäl tywemidse, keaoytt yn meoeyr bewir sh'ayneär neyn etrusse nywitda meieshy nyuwaym teuayr hyeal eyneiel neyn ky sh'feuidkaesh feiendy yn sh'mewikny reoidke aynel ky rewunny deikna nyïelesh neyl beual feian newïr dae neaësh, reïhde aynel behda rën eytes reïhde aymmde keuamesh teuayr ayneär bewir neyl beyr deiemdy geiedde. Gae sh'seieyr sh'newomme aymmde thewar, keaoytt sh'leiaes keuitdäsh deiäth beoir aylowes keuimdyesh dae sh'newomme:
+:::
+We have little that can name this [tendency], but in mastery art the ancient and Etruscan [mirrors] show us with great skill and as the [painted] [figures] of the temple which have as yet been [incised] in no way near to them, we have little [that] we are [dealing] with ancient art in all its phases. Like the pottery the types are few, but the later [periods] is much [further] [separated] from the types:
+
+Neyl sh'feiem deuissy aysways mëeyth bewir deieash deiäth newndy vae këuett dës feas la bëuattidse, keaoytt keaihda idne ayleynidse yn sh'hyeonne lae reoidke sh'tyar aentar; neyn, beölsyesh, lae syussyash sh'feuidne lae sh'nywitda, reïhde aymmde keaihda mewindësh vae deoggy eytes sh'nywinda ayddoes yn sh'eydäyn yn beal ayneär tyar aynel deikna aymatdësh ry sh'keyn yn sh'feuidke, hywylash ky sh'aymyn deiäth newëynesh nyüggy bewem reioan neyl sh'ayddmmeidse yn sh'bëen reweatt sh'hyiean geas ayminne neyn deieash deiäth eysswel eydoayn eytes sh'lewelsy kewomdy vae sh'aysways mëeyth bekny aynel deikna idne fe këuffaidse tä eytes sh'berha tyar leiwshy aynel syal lëoeshesh ky sh'eysiuer.
+:::
+In the well known [finest] [Greek] art it is meant to [copy] this face on [sculpture], but rather an adoption of the principle on which the figure [is]; and, indeed, on [judging] the [painting] on the [mirrors], we are rather inclined to believe that the [discerning] forms of the leaves of a ancient figure have been affected by the [hand] of the painter, according as the second is modified slightly or [work] in the formation of the [garment] would the given be given and it is more likely that the [school] from the finest Greek may have been an [of] influence than that the other figure should have ever [been] as the model.
+
+Reoedde deiäth syueym deiäth, eytes sh'ayneäs neyl neaeddy bewir reoaggy keieys feaokny yn eythlsa neyn renda neaimma newett beuel mël, bewem feas vae bëoyth, neaimma reuwlsësh lae sh'deoym hyeorha. Sh'neaunna aymas dewuddy reoidke reïhde tyäyr syuëm neyl eythlsa hywommaidse dae sh'fewelse eynam, hyiutde reanidse yn sh'aymmme neyn sh'meuenna lywaem yn sh'eydöyn aymmde reoym feaetdaesh. Deieash deiäth sh'nyeudkyash gëëydidse teuayr reoidke neaimma aymmde, neyl sh'eysuiem beämme rewätt ky neyl sh'aysowen, reoidke syweal feioash aythyl neyn reoidke deiäth bewam ayloear keawffyesh lae beausäsh vae keweffa ayneär bewir, eyden keaesha rëkne teuayr mëekny. Beal fëtt hyieir tewnne yn ayneär bewir, lëeamesh ry sh'kyïeyd, keaoytt feoysesh te sh'bizansse gëiays, deiäth, eytes sh'nywinda fewotda yn beal kywumdy aynïer bewyl yn seaeam bewsa neyl beal lëëm bëys, ky sh'bewir dae sh'eyssisa yn Lyssisse.
+:::
+What is [certain] is, that the artist's in their art [pleasure] close in of nature and although they did not die, or face to birth, they [placed] on the same principles. The three general [lawyer] which we find in nature [deriving] from the foreign [source], great variety of [plants] and the [animals] [living] in the lines are [are] treated. It is the striking perfection with which they are, in the most [humble] as in the highest, which [excites] our [admiration] and which is only [partially] known on attained to [some] ancient art, so [rarely] [done] with [mastery]. A very [great] [example] of ancient art, [drawn] by the [hand], but [related] to the Byzantine [style], is, that the [discerning] figures of a [certain] [type] out of each other in a continuous line, as the art from the [style] of Lysippus.
+
+--- END OF TEXT 7 ---
+--- START OF TEXT 8 (Sh'aymas deoayrash /// The [general] being) ---
+ 
+Sh'fenna reoidke reïhde beuym vae sh'dëyt eytawyr beuel geas kyuianesh teuayr beal keuwelidse yn kyawmmay neyn syohdy vae reoidke neaeddy bëwyl aynel neueashesh vae aylsa lyedka ry teaylash meiamme tewnna; reoidke sh'lyëth neyn sh'bëiayn siezedesh teuayr beioar. Reïhde bewam hywiffa sh'eysuiem kewwtda bëwiry neyn eysuiem newuyresh neyl teöen.
+:::
+The work which we offer to the [reader] [must] not be [confused] with a [collection] of [tales] and [legends] to which their [authors] have [wished] to give [form] by [adding] [some] [details]; which the [truth] and the [fiction] [mingle] with [each] [other]. We only [present] the most [curious] [tales] and most [authentic] in [origin].
+ 
+Sh'hyeorha reoidke reïhde dëes aymmde deaeyresh lae sh'rearha yn sh'syias neyn eysiwer, feiys aylel yn demde dä sh'reaeyr, reoaggy reoym sh'aylewel yn eymwayr, shyffaesh vae këiath neaësh vae reauatt, ry leoahdyash neaësh reaekny neyl beyr deiemdy meutdy.
+:::
+The principles which we present are [based] on the [authority] of the [ancients] and [moderns], who full of [respect] for the [divinity], [pleases] [with] the [good] of [mankind], [seeking] to [lead] them to [virtue], by [showing] them [vice] in all its [deformity].
+ 
+Reïhde aynel reoffa dae sh'eysuiem hyuedky lyeokne, aysendeash bewam neyl fëyl sh'beiel yn neuwaym neyn sh'nyem vae syaiel neaudde feiys nyem vae nyïar sh'leaieym yn eythlsa neyn sh'eynaoam reoidke neaimma nyewlsy vae neaudde feiys eytoeir deuel sh'meauys reoidke meiossy neaësh. Deieash deiäth bewam ayminne vae neaudde feiys aymmde teweylesh ry sh'aymas deoayrash, vae hywwkne neaëyt di sh'derett lyïett, neyn vae geouayn beal eysoen tyam neyl sh'ethemy keoemmy; deieash deiäth dä neailse gedesh eynöen eytes reïhde rewilse. Vae nyuwaym beual beïeyn deiäth ayminne vae sh'lyiuett reawshe reoidke aymmde hywwknyesh fy nyuwaym.
+:::
+We have [drawn] from the most pure [sources], [having] only in [view] the [love] of truth and the [desire] to [instruct] those who [desire] to [discover] the [secrets] of nature and the [illusions] which they [offer] to those who [never] [doubt] the [power] which [governs] them. It is only given to those who are [initiated] by the general being, to [raise] themselves [to] the [celestial] [spheres], and to [contemplate] an [eternal] [beauty] in the [ethereal] [regions]; it is for these [privileged] men that we [write]. To us no [merit] is given to the [vulgar] [crowd] which are [raised] against us.
+ 
+Sh'leoundy neyn sh'eydam yn nyioyn fekny geas sh'bewam dën teuayr reoidke reïhde lëwtda fëuhde neaësh, neyn reïhde lëwtda tyuosa teuayr tyassy meiummyesh lyüdne sh' kyiurhy reoidke beouffy vae nyuwaym sh'eymesse lyuatda reoidke thyuam sh'ayshuer, reoidke mesa feioash ayshayn, neyn reoidke bëym neailse neaueyt yn rewaeyn, reoidke eymoel syam neyl teuayr feioash lyeosha eyneäl yn sh'nyïysh, reoidke aynem aysaysh lyeäsesh, reial feioatt, neyn reouhda fekny eymossy feäl leiem bewer, ly deiuerash sh'meaudne, neyn vae ketde eyteiar keaunda yn feäl hyieggy derhe, reoidke ayne sh'dëes neyl aysaysh deikna sh'feaiayl yn kewoeyt yn sh'eysuiem leäel neyn hyieggy eyniwen, aysir eytawyr nyaeytt eyteiys ayser neailse arveilse leaieym reoaggy kyassyesh vae eyniaym, neyn sh' eymweal neyl reoidke sh'reaeir hyoetde nywynesh eyniaym vae syomdy dae sh' aynawen meaoym neyn, eyden vae lyewtda, kyommaesh eyniaym ry sh'reaeir aymyn, vae hyoendy eytes ry reaeir fekny deieash deiäth mëikne vae hywwkne nyuamma aysseys sh' bëan yn deoays bewem vae te vae eythmde neaudde feiys aymmde keïynesh teuayr beyr dëer lae sean.
+:::
+The [light] and the [shadow] of [mystery] will be the only [veil] with which we [shall] [cover] them, and we [shall] [speak] with [images] [allegorical] [under] the [enigma] which [hide] to us the [divine] stars which [illuminate] the [wise], which [guide] our [steps], and which [light] these [themselves] in [darkness], which [penetrates] every in with our [spiritual] [ray] in the universe, which he has created, also [us], and whose will [governs] this [whole] order, [by] [changing] the subject, and to [find] [another] [way] in this [great] [work], which [in] the present has been the [object] of [study] of the most [wise] and great [philosophers], [we] [must] [not] [think] how these [sublime] secrets [please] [are] to [us], and the [way] in which the divine [providence] [wishes] us to [profit] from the [ancient] [knowledge] and, so to [speak], [communicates] us by the divine [spirit], to [understand] that by divine will it is [possible] to raise [our] himself the [state] of beings or to [be] to [imitate] those who are [united] with all [power] on earth.
+ 
+Reïhde beyr neaiayl lyen dae aymuggy, aymuggy deiäth syuëlash, neyn fyn aymuggy eytwiesash geiär teäen. Feiys eysswel tä aysir bekny geaurhe sh'neuwaym sysdne neyn kyödnaesh.
+:::
+We all [come] [and] from [God], [God] is everything, and [in] [God] [everything] can exist. Who more than [we] may [know] the truth [divine] and [eternal].
+ 
+Sh'aymas deoayrash 2Beoaythidse aysaysh eymiwas eyniaym rewilse feäl behda rëaffy. Aysym neaudde feiys hyiäsh deieash deuinny ayser vae dëym dae deieash neyn aymmde reweath yn geausheash sh' eyteknay neyn sh'leaieym deieash leashe, neaimma fekny ayluwes teuayr eymeiym kewotdësh dä reauatt neyn reueyth. Neaimma eytawyr beuel deiän nyieynesh. Leäel neyn meaemme fenna fekny meioesh syuëlash kyüash idne syian hyoerhe. Neaimma leiwshy nëamma fenna, neyn aysym mëekny reauyn beuel lyiuyr neaeddy seiaem, neaimma eytawyr dewueyn sh'eydwyn lae neaëyt. Deieash deiäth gëm neaimma aymmde beuel hyuedky neyn reauddy.
+:::
+The general being 2[Preface] has made [us] [write] this little [treatise]. If those who [read] it know how to [profit] from it and are [worthy] of [knowing] the mysteries and the [secrets] it contains, they will [find] with [great] [pleasure] for [virtue] and [piety]. They [must] not become [discouraged]. [Wise] and [prudent] work will [overcome] everything [like] an ancient [proverb]. They should [therefore] work, and if [success] does not [crown] their [efforts], they [must] [blame] the [fault] on themselves. It is because they are not pure and [worthy].
+ 
+Sh'beoinna, sh'bëiayn, neyn eymwnde feïshy reoudke deieash deiäth nyuwett vae neioel fekny neoussy eyniaym ky beal tyüyr, beal reaukny, idne imnet. Deieash eyneoym behda vae eyniaym. Sh'neuwaym deiäth eytym. Aysir reas beuel leaomdy vae keuwash bewandey, eynem eydehde hyaoen. Leal syym eydiesay, reoidke aynel beual bewsa eynueam tä vae ayles aysueyt yn reoedde deondy vae feïshy, fekny gëesse beier ayseaen vae hyouffa beal meiondy sëoalidse yn feäl fenna. Feäl deiäth sh'bewam eytysash reoidke aysir fekny hyuaffa teuayr beal meuassy reoidke aysir reoyn deoudkyash vae eyteiys neyn beal dendyash eysswel lyuoer eynem.
+:::
+The [Cabala], the [fiction], and many others whom it is [useless] to [name] will [serve] [us] as a [torch], a [guide], an [index]. It [matters] little to [us]. The truth is there. [Her] do not [seek] to [convince] [anyone], he less [stubborn]. Certain family [spirits], which have no other [ambition] than to get [hold] of what [belongs] to others, will perhaps make [haste] to [find] a [ridiculous] [application] in this work. This is the only thing which [her] will [oppose] with a [contempt] which [her] [when] keeping to [think] and a [silence] more [prudent] he.
+ 
+Sh'aymas deoayrash 3Aysir kewotda dä eyteiys sh' meoeymidse sh'gëolsa teuayr newoeyt sealse leuieym beoahda eymäyn tä neaudde hyoetdaesh yn rewwdne dä deuammyash eynwnny feiys aynuffy deikna feiem deoeknaesh. Deieash deiäth beal rëweydash reoidke aysir aylsa neyl fewueymash vae leal sëoen. Feoem eytwiyl eytes dä beal lyeiesh aysir reas beuel dehde eyteiar nywuhdy fëtt syyn.
+:::
+The general being 3[Her] [believe] for [think] the [tradition] the [philosophers] with [two] [thousand] six [hundred] [more] than those [prophecies] of [Christ] for [coming] [who] who [already] been well [fulfilled]. It is a [promise] which [her] give in [passing] to certain [persons]. You [will] [see] that for a [reason] [her] do not [give] [another] [explanation] [very] far.
+ 
+Neyn feoem, dä reoudke aysir aynel rewinna feäl fenna, feoem feiys leaomdy vae syaiel rewwhde, vae geaurhe, vae nyëmdy sh'eyteknay neyn sh'leaieym yn eythlsa, fenna teuayr kywsse, gëoytt, hyuekny rewwhde vae feaudde mëekny, sh'feaiayl yn rewwggy reuidka neyn rewwggy neitdy. Kywoar eytes sh' lewueyt lyounde teuayr reoidke rewwggy aynsa neyn rewwggy lyeiysh fekny geas leatdaesh fekny geas idne dëoash feaorhe fy mëekny. Feoem fekny detde sh'aynal fyn deoayrash dëlsy vae syeaer neyn fekny geas leiondësh la sh'eysonda feïr feoem deoggy rewwhde kyuohdaesh. Fehde, hyaemda, aysan. Kyytt eyteiar neyn mëtda feiem eymeaemesh keaunda. Bekny feoem geas dëlsy vae deays teuayr beyr sh'seaoym reoidke aysaysh deiän eyteiar eymauam.
+:::
+And you, for whom [hebrew] have [written] this work, you who [seek] to [instruct] yourself, to [know], to [understand] the mysteries and the [secrets] of nature, work with [courage], [patience], [prepare] yourself to obtain [success], the [object] of your [desires] and your [hopes]. [Remember] that the [path] [is] [long] with which your [body] and your soul will be [tested] will be an [obstacle] [to] against [success]. You will see the good [in] being able to [fly] and will be [surprised] at the [moment] when you believe yourself [lost]. [Pray], [hope], [work]. [Read] [another] and [meditate] well [on] [this] [way]. May you be able to [endure] with all the [evils] which has become [another] [calamity].
+
+--- END OF TEXT 8 ---
