@@ -1,0 +1,3190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document id="10W6vqWzRr26F62GAX4J5uZrJkmtmK8Lt">
+    <name>Some Coords Related</name>
+    <description><![CDATA[Uma coleção de coordenadas encontradas no post a seguir: https://www.reddit.com/r/ChantillyGenericEvent/comments/x7xiuq/cassini_diskus/
+
+Caso o post seja excluído, aqui está ele:
+
+"Cassini Diskus
+39.7808257,59.1359297 (Turkmenistan)
+
+Cassini Diskus 48.440355, -47.724230
+
+Cassini Diskus - 21.760579, 39.329420
+
+Cassini Diskus - 72.267445, 15.125097
+
+Cassini Diskus - Site -31.321476, 175.000325
+
+Cassini Diskus - Entry Event 38°40'52.2"N 69°27'45.0"E
+
+Cassini Diskus - Entry Event 45°54'29.5"N+103°37'00.2"E
+
+Cassini Diskus +40.121463, -112.915551
+
+Cassini Diskus - Entry Event 45.886327, 87.361847
+
+Cassini Diskus - 48.261512, 71.999473
+
+Cassini Diskus - +17.595563, +27.419459
+
+Cassini Diskus - 33.552608, -100.517892
+
+Cassini Diskus –74° 45′ 10.9583″
+
+Cassini Diskus - -25.292531, 130.749575
+
+Cassini Diskus - +35.760190, -82.442803
+
+Cassini Diskus - +39.285286, -103.787314
+
+Cassini Diskus - +52.935655, -34.822339
+
+Cassini Diskus - +52.936358, -34.826280
+
+Cassini Diskus - "Sienna" last seen at 28.137725, 61.008806
+
+Cassini Diskus - "Sienna" 34.347303, 57.206411
+
+Cassini Diskus - +11.563285, +92.236034
+
+Cassini Diskus - 72.627°N 3.951°E (Entry Event)
+
+Cassini Diskus - +9.446663, +94.344333
+
+Cassini Diskus +21.128135, -11.403915
+
+Cassini Diskus - +38.639132, -102.849702
+
+Cassini Diskus - +39.749555, +82.780638
+
+Cassini Diskus - -13.162543, -18.435815
+
+Cassini Diskus - -16.506432, -14.081690
+
+Cassini Diskus - 33.853806, 36.440693 (Jabrud - calibration)
+
+Cassini Diskus - -36.486425, -16.934297
+
+Cassini Diskus +41.642213, -116.969045
+
+Cassini Diskus - "Sienna" -37.231200, -13.142772
+
+Cassini Diskus +16.658584, -116.689209
+
+Cassini Diskus +18.256028, -81.699944
+
+Cassini Diskus +32.046861, -105.682840
+
+Cassini Diskus: 18.178°S 178.111°W (Mission Wrap-up)
+
+Cassini Diskus: 35.526537, 64.605441
+
+Cassini Diskus: +40.279489, +103.571701
+
+Cassini Diskus - AfC Recovery Point 67.512206, 48.776419
+
+Cassini Diskus - "Presence" (ISR over +32.649542, +79.677849)
+
+Cassini Diskus - S17E 67.511209, 48.782778"]]></description>
+    <Style id="__style_0">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_1">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_2">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_3">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_4">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_5">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_6">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_7">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_8">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_9">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_10">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_11">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_12">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_13">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_14">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_15">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_16">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_17">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_18">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_19">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_20">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_21">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_22">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_23">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_24">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_25">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_26">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_27">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_28">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_29">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_30">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_31">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_32">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_33">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_34">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_35">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_36">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_37">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_38">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_39">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_40">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_41">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_42">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_43">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_44">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_45">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_46">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_47">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<html><head><style>
+    body {
+      width: 496px;
+      margin: 8px;
+    }
+    .feature-media-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+    }
+    .feature-media-container.card,
+    .feature-media-container.simple {
+      overflow-x: auto;
+      margin-right: 8px;
+    }
+    .feature-media {
+      white-space: nowrap;
+      display: inline;
+    }
+    .feature-media img {
+      height: 280px;
+    }
+    .feature-text-container {
+      margin-top: 8px;
+    }
+    .feature-text-container.slide {
+      left: 0;
+      top: 0;
+      position: absolute;
+      padding: 8px;
+      margin: 0;
+      text-shadow: 1px 1px rgb(10, 10, 10);
+      color: white;
+    }
+    .feature-text-section {
+      margin-top: 8px;
+    }
+    .feature-title {
+      font-size: 22px;
+    }
+    .feature-description {
+      font-size: 13px;
+    }
+    </style></head><div class="feature-text-container card"><div class="feature-title feature-text-section">$[name]</div><div class="feature-description feature-text-section">$[description]</div></div></html>]]></text>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Schema id="schema" name="__schema"/>
+    <Placemark id="0A522566F93ABD5CEBBF">
+      <name>(Turkmenistan)</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>59.1491224530933</longitude>
+        <latitude>39.7906421621499</latitude>
+        <altitude>95.8883112834348</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>272.953756994648</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          59.14944796625,39.7905694680565,96.4177218646688
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="045B1C9CA23ABD617A06">
+      <name>Cassini Diskus (não visível por estar no oceano)</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-47.7242300052219</longitude>
+        <latitude>48.4403550041019</latitude>
+        <altitude>48.4276201122557</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>538.554698723601</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -47.7242069386374,48.4403810137987,48.4265326748611
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Folder id="095113CA0A3ABD75E0C3">
+      <name>(Cazaquistão) Várias coisas estranhas aqui</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div>Ao redores das coordenadas que levam ao oceano mas com o segundo número positivo invés de negativo<br></div>]]></description>
+      <styleUrl>#__style_1</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Placemark id="0AE32B984E3ABD7076FF">
+        <name>Marcas no chão (?)</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>47.7572797491206</longitude>
+          <latitude>48.4505323572405</latitude>
+          <altitude>-13.3712672597367</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>769.466214220374</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            47.756640217702,48.449700141726,-13.2541620633823
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0307F655DA3ABD751A10">
+        <name>Construção com oque parece ser um MilOrb em cima</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>47.7289936248513</longitude>
+          <latitude>48.4593567543753</latitude>
+          <altitude>-14.065502653815</altitude>
+          <heading>-0</heading>
+          <tilt>0</tilt>
+          <range>151.278939430849</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            47.7291002352828,48.4593654923864,-14.0654946150755
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="038A097EB23ABD7A0A1B">
+        <name>Semelhante a primeira coordenada</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>47.7325441039087</longitude>
+          <latitude>48.4628799240784</latitude>
+          <altitude>-12.5772720425403</altitude>
+          <heading>-0</heading>
+          <tilt>0</tilt>
+          <range>277.382602213111</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            47.7326429591224,48.4626424811319,-12.6082104305994
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="00E556E2773ABD7B5F46">
+        <name>Mais construções</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>47.7803923224895</longitude>
+          <latitude>48.4776446543199</latitude>
+          <altitude>-8.33067557124224</altitude>
+          <heading>-0</heading>
+          <tilt>0</tilt>
+          <range>532.368829230472</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            47.7814042209267,48.4775995788299,-8.4650546890643
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0EDCE544F53ABE667778">
+        <name>Cassini Diskus</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>71.9993147048352</longitude>
+          <latitude>48.2614950693626</latitude>
+          <altitude>587.540973465909</altitude>
+          <heading>-0</heading>
+          <tilt>0</tilt>
+          <range>318.692616992012</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            71.9994639870074,48.2615230769433,588.536457099055
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Placemark id="0EECC9C4D03ABD84E8A7">
+      <name>Cassini Diskus 2</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>39.3120746075403</longitude>
+        <latitude>21.7602262139419</latitude>
+        <altitude>456.244000195127</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>1117.20988920351</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          39.312370955299,21.7610925605723,473.681973312291
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="079C694D063ABD8E039B">
+      <name>Cassini Diskus Mar da Noruega</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>15.1250970580943</longitude>
+        <latitude>72.2674449911711</latitude>
+        <altitude>3.79728599143443</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>236.016404933362</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          15.125097106643,72.2674429814233,3.79720713751805
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0C60DFC0F53ABD9C6CF0">
+      <name>Cassini Diskus Site perto da Nova Zelândia</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>175.000833544302</longitude>
+        <latitude>-31.3207660875103</latitude>
+        <altitude>15.7510847773364</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>8272.70080854069</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          175.000613205048,-31.3213072343921,15.6884830547438
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0F2DA28D883ABDA1312B">
+      <name>Cassini Diskus Entry Event Tajiquistão</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>69.4629114228157</longitude>
+        <latitude>38.682644793073</latitude>
+        <altitude>2943.24245228119</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>4602.2783735313</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          69.4625513332266,38.6812009666333,3050.79952751135
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0CA976E0FB3ABDAB46BC">
+      <name>Cassini Diskus Entry Event (Mongolia)</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div>Vários iguais pela área<br></div>]]></description>
+      <LookAt>
+        <longitude>103.616152522939</longitude>
+        <latitude>45.9033310857428</latitude>
+        <altitude>1420.76668518017</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>119.713320507581</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          103.616106836079,45.9034294975862,1420.85105717594
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Folder id="0379F27E543ABDDDB260">
+      <name>Dugway Valley</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div>Após achar algumas das estruturas decidi pesquisar e achei isso:<br></div><div><a href="https://www.globalsecurity.org/wmd/facility/dugway.htm"><br>https://www.globalsecurity.org/wmd/facility/dugway.htm</a></div><div><br></div><div><span style="color: rgb(226, 226, 229); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(25, 25, 25); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: Inter, sans-serif;"><span class="size" style="font-size: 14px;">Embora a base seja secreta, a explicação mais aceita é que essas estruturas são parte de instalações de teste para sistemas de radar, antenas e guerra eletrônica. As grandes matrizes circulares são provavelmente para testar e calibrar sistemas de vigilância aérea, radares de varredura (como os de aviões AWACS) ou para criar ambientes de teste de radiofrequência controlados. A simetria e o alinhamento com o norte verdadeiro são características comuns para instalações de calibração de sensores e antenas.</span></span></span><br></div>]]></description>
+      <styleUrl>#__style_1</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Placemark id="03009584D43ABDDBEF9C">
+        <name>Cassini Diskus (Outras formas circulares)</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<div><div>As linhas se alinham com a rosa dos ventos<br></div><div><br></div></div><div><br></div>]]></description>
+        <LookAt>
+          <longitude>-112.985482735903</longitude>
+          <latitude>40.1068094139936</latitude>
+          <altitude>1327.71188478262</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1355.90550873487</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -112.985482736089,40.1068672468001,1327.71179684383
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0653523DCD3ABDB880C4">
+        <name>Qeltron kolider (Realmente um disco)</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<div><div>No FL:<br></div></div><div><a href="https://forgottenlanguages-full.forgottenlanguages.org/search?q=Dugway">https://forgottenlanguages-full.forgottenlanguages.org/search?q=Dugway</a><br></div>]]></description>
+        <LookAt>
+          <longitude>-112.916480323764</longitude>
+          <latitude>40.1214338841161</latitude>
+          <altitude>1330.74295641716</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>893.278771305922</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -112.915583863166,40.1214313419532,1331.13468987398
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0618DB35BC3ABDE50D24">
+        <name>Crateras</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-112.842857243411</longitude>
+          <latitude>40.0668805664188</latitude>
+          <altitude>1359.1166623661</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>6422.54986675107</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -112.836177686213,40.065255508175,1361.03897152132
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0FEB58393D3ABDE3FED4">
+        <name>Quadrado???</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-112.943721370365</longitude>
+          <latitude>39.9859111740991</latitude>
+          <altitude>1342.78766008758</altitude>
+          <heading>-0</heading>
+          <tilt>0</tilt>
+          <range>5292.43125993933</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -112.940228091874,39.985259439737,1343.84375780856
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0BACFBAC2C3ABDE7C498">
+        <name>Desenho estranho (e linha ao lado tbm)</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<div>A reta ao lado é alinhada perfeitamente ao norte verdadeiro, e abaixo há uma curva de 90°</div>]]></description>
+        <LookAt>
+          <longitude>-112.797185808982</longitude>
+          <latitude>40.042779465766</latitude>
+          <altitude>1445.14640607542</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>688.618946527204</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -112.796498834997,40.0424541692825,1448.72340811948
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="063B689DFC3ABDEE6CB7">
+        <name>Linhas em um quadrado</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-113.033481948577</longitude>
+          <latitude>40.2953705793507</latitude>
+          <altitude>1341.92249089272</altitude>
+          <heading>0.536203793549626</heading>
+          <tilt>0</tilt>
+          <range>2207.59124359611</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -113.031995823113,40.2942854124385,1339.67538240926
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="03906A16803ABDEFA074">
+        <name>Hexágono feito de construções???</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<div>A construção no meio está alinha com o norte verdadeiro tbm</div>]]></description>
+        <LookAt>
+          <longitude>-113.016806390836</longitude>
+          <latitude>40.3323754183444</latitude>
+          <altitude>1603.77430761207</altitude>
+          <heading>0.862220161745113</heading>
+          <tilt>0</tilt>
+          <range>227.189981077972</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -113.016780656424,40.3322150778435,1603.1061157974
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="07975DD9683ABDF4A797">
+        <name>Chuva ácida? (olhar a linha do tempo)</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<div>Algo matou as arvores aqui de um ano pro outro</div>]]></description>
+        <LookAt>
+          <longitude>-112.664978579478</longitude>
+          <latitude>40.4528456808832</latitude>
+          <altitude>2607.08551991507</altitude>
+          <heading>0.862220157766041</heading>
+          <tilt>0</tilt>
+          <range>2696.53753575403</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -112.663674782778,40.4533081583518,2637.60252968314
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0B6DF602A73ABDFAF794">
+        <name>Formas estranhas</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<div>Uma outra mas com quadrados acima. São relativamente novas. Estranho que essa aqui em específico tinha algo estranho no circulo superior no ano de 2023</div>]]></description>
+        <LookAt>
+          <longitude>-113.099718921528</longitude>
+          <latitude>40.2393264278444</latitude>
+          <altitude>1308.07180650734</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>266.024883198843</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -113.100042377195,40.2394694281666,1308.54130043655
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="08161F22313ABDFD21AC">
+        <name>Oval?</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-113.334368151093</longitude>
+          <latitude>40.1251434769571</latitude>
+          <altitude>1307.53738663208</altitude>
+          <heading>-0</heading>
+          <tilt>0</tilt>
+          <range>1008.54551573153</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -113.333625465415,40.1246415512152,1307.4183729937
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0BC94461763ABE11A060">
+        <name>Mais circulos</name>
+        <visibility>1</visibility>
+        <description><![CDATA[<div>Mais coisas ao redor desse</div>]]></description>
+        <LookAt>
+          <longitude>-113.177102757321</longitude>
+          <latitude>40.1991841739002</latitude>
+          <altitude>1310.64419414656</altitude>
+          <heading>359.999999140497</heading>
+          <tilt>0</tilt>
+          <range>531.486272602051</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -113.176960284778,40.1989952473279,1310.59707961126
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Placemark id="0458F70CED3ABE639991">
+      <name>Entry Event (China)</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div>Parece haver algo com formato triangular ou olhar pela imagem de 2005<br></div>]]></description>
+      <LookAt>
+        <longitude>87.3617658559348</longitude>
+        <latitude>45.886434163415</latitude>
+        <altitude>480.739828497733</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>185.417248705453</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          87.3618447634129,45.8863491332403,480.445923207619
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="045D78AFE93ABE6C8AF8">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>27.4203810861854</longitude>
+        <latitude>17.5947567595999</latitude>
+        <altitude>519.153857572017</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>6226.39691626537</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          27.4194207730834,17.595478502023,555.472397682748
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0A2D2358FF3ABE741CF6">
+      <name>Triângulo</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-100.502415674144</longitude>
+        <latitude>33.6155870682445</latitude>
+        <altitude>598.621740504813</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>1219.79329499707</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -100.502023519805,33.615291759688,596.740030041246
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="04995009053ABE75E590">
+      <name>Linha Alinhanda ao Norte</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-100.5178919968</longitude>
+        <latitude>33.5526079569128</latitude>
+        <altitude>588.636387567673</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>863.789911640488</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -100.518207713326,33.551869777656,595.747642585392
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0628793EDF3ABE7839B8">
+      <name>Ponte aqui em 2016</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>4.75294593145612</longitude>
+        <latitude>7.00049970468032</latitude>
+        <altitude>133.735305118552</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>408.34498514916</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          4.75307378402559,7.00012477440465,136.445679178075
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0A4DF0F98C3ABE7DC217">
+      <name>Montanhas sagradas</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>130.749265681218</longitude>
+        <latitude>-25.2923871523481</latitude>
+        <altitude>596.410875350105</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>1950.22161768138</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          130.749535893988,-25.2924926490261,594.525551061106
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="07E854913E3ABE82CB6C">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-82.4428030335061</longitude>
+        <latitude>35.7601899921742</latitude>
+        <altitude>867.279287274566</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>622.216885859016</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -82.4427768035758,35.7601953134576,865.753130639273
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="05C1F488CE3ABE891F90">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-103.787314000995</longitude>
+        <latitude>39.2852860010985</latitude>
+        <altitude>1668.85089783574</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>795.946760554507</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -103.787331541746,39.2853244694257,1668.90694085084
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0231B28C393ABE8A1C6C">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-34.8223390048431</longitude>
+        <latitude>52.9356550006416</latitude>
+        <altitude>55.2215313991417</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>485.310607567153</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -34.8223389998042,52.9356563785324,55.2213672645612
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="00F76F42DC3ABE8C87A0">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-34.8262799976618</longitude>
+        <latitude>52.9363579993892</latitude>
+        <altitude>54.7035066098838</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>485.282052764742</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -34.826261691208,52.9363566207622,54.7056591035206
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="08F887051E3ABE8DD046">
+      <name>Last seen Sienna</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>61.0088059999223</longitude>
+        <latitude>28.1377249999023</latitude>
+        <altitude>1409.0564363438</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>87.4659440879441</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          61.0088082560545,28.137730222402,1409.06183894828
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0A7879FE3D3ABE9463CB">
+      <name>Sienna</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-86.0113605012639</longitude>
+        <latitude>-47.4318308013579</latitude>
+        <altitude>-13.3027388464591</altitude>
+        <heading>1.20384511700813e-18</heading>
+        <tilt>0</tilt>
+        <range>549.779239251948</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -86.011346643846,-47.4317979717418,-13.3071515422325
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0E5AF883703ABE95F6B3">
+      <name>Parece um olho</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>45.1094348669638</longitude>
+        <latitude>22.9970878160868</latitude>
+        <altitude>721.39178270793</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>319.793367540806</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          45.1093223240027,22.9970087540319,721.621794776439
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0209B69E0D3ABE986C07">
+      <name>Sienna</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>45.074502090961</longitude>
+        <latitude>23.0037203775484</latitude>
+        <altitude>718.54654164806</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>164.510057446169</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          45.0745968511498,23.0037767474139,718.310337909659
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="068FF36AF63ABE996B18">
+      <name>Sienna over Dumayr Airport</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>36.7458955884082</longitude>
+        <latitude>33.6139677910502</latitude>
+        <altitude>633.139345163708</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>2432.69394278614</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          36.7442761258996,33.6134971966735,634.966169152313
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="03E2F9B66E3ABE9C1316">
+      <name>Sienna Transect Over Amarillo</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-101.808626399848</longitude>
+        <latitude>35.1944830583398</latitude>
+        <altitude>1099.84287069944</altitude>
+        <heading>7.40339692045044e-18</heading>
+        <tilt>0</tilt>
+        <range>30395.6392956572</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -101.832100203233,35.2097723102942,1114.38435047531
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0C369AD4D83ABE9DC244">
+      <name>Sienna</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>57.2064134180299</longitude>
+        <latitude>34.347298148416</latitude>
+        <altitude>1671.85272857471</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>212.96920274759</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          57.2064104798958,34.3473072450666,1671.53501662646
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0D36A2B7DF3ABE9EB4E4">
+      <name>North Sentinel Island</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>92.2360550933982</longitude>
+        <latitude>11.5631527294521</latitude>
+        <altitude>95.7984901525675</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>221.781094248181</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          92.2360342678113,11.5632923614575,93.3950940655439
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="02880E9AE23ABE9FC40B">
+      <name>Entry event</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>3.95100003800526</longitude>
+        <latitude>72.6270000217146</latitude>
+        <altitude>-0.584937761772644</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>231.191686317834</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          3.95099563071357,72.6270164604548,-0.589412421267889
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0D757E85F33ABEA04614">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>94.3443330031724</longitude>
+        <latitude>9.4466629843382</latitude>
+        <altitude>49.6267903247883</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>832.675375155959</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          94.3443330067834,9.44670799584521,49.6228075802733
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0644BBADC53ABEA1F8D0">
+      <name>Structure o Richat</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-11.4100372438083</longitude>
+        <latitude>21.1274910819614</latitude>
+        <altitude>420.484183115528</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>5490.56302114797</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -11.4021133849553,21.1238417812921,450.903668997863
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0770009BA73ABEC88167">
+      <name><![CDATA[Buraco perto ao "Reservoir number 7"]]></name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-102.849692690921</longitude>
+        <latitude>38.6393185497522</latitude>
+        <altitude>1292.97546555042</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>156.361566783253</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -102.849700667484,38.6391623456833,1292.83066529785
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="04FE0485193ABECD33A8">
+      <name>Taklamakan, maior deserto da China</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>82.7806379984548</longitude>
+        <latitude>39.7495549977528</latitude>
+        <altitude>1043.59416312508</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>329.726846252015</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          82.7806404369704,39.7495653092977,1043.66433759494
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="02E84795F43ABECEA1CF">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-18.4358150027425</longitude>
+        <latitude>-13.1625429995844</latitude>
+        <altitude>85.86071315103</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>820.609487770853</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -18.4357910348181,-13.1625406828662,85.8492351565152
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0C04F65F273ABED1C627">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-14.081690015349</longitude>
+        <latitude>-16.5064320135351</latitude>
+        <altitude>3.96919311133782</altitude>
+        <heading>4.0677826673056e-07</heading>
+        <tilt>0</tilt>
+        <range>806.52557316469</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -14.0816900288298,-16.5063976358553,3.97033695500798
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0A648012EE3ABED469EC">
+      <name>Cassini Diskus Jabrud - calibration</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div><div>No site:<br></div><div>"<a href="https://forgottenlanguages-full.forgottenlanguages.org/search?q=Jabrud">https://forgottenlanguages-full.forgottenlanguages.org/search?q=Jabrud</a>"<br></div><br></div>]]></description>
+      <LookAt>
+        <longitude>36.4407408955678</longitude>
+        <latitude>33.853841797184</latitude>
+        <altitude>1635.60382932422</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>1703.48531809053</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          36.4407292318447,33.8537885221661,1635.73164461918
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0456FEB10B3ABED6963B">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-16.9342969903223</longitude>
+        <latitude>-36.4864249921041</latitude>
+        <altitude>-39.6114182480201</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>663.649533316129</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -16.934264135202,-36.4864155507775,-39.6084360687562
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="00D76D70FA3ABED907D8">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-116.969076505917</longitude>
+        <latitude>41.6422344039519</latitude>
+        <altitude>1652.93933233088</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>375.934310953235</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -116.969036456304,41.6422354728612,1652.93933902076
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0DE88752D23ABEDC83F6">
+      <name><![CDATA[Cassini Diskus - "Sienna"]]></name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-13.1427719992009</longitude>
+        <latitude>-37.2311999993874</latitude>
+        <altitude>17.0545443113275</altitude>
+        <heading>1.74552538602176e-18</heading>
+        <tilt>0</tilt>
+        <range>656.681141713416</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -13.1427485442846,-37.2311869228842,17.0518289588005
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="051FEF78853ABEDD2B94">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-116.689208997548</longitude>
+        <latitude>16.6585840002421</latitude>
+        <altitude>17.3024183911565</altitude>
+        <heading>3.81858360159184e-27</heading>
+        <tilt>0</tilt>
+        <range>805.806789453345</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -116.689185073841,16.6586275538295,17.3039272834312
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="05CD9EC0BC3ABEDEE198">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-81.6999440008847</longitude>
+        <latitude>18.2560280014123</latitude>
+        <altitude>8.96375043417427</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>798.019857751642</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -81.6999965633575,18.2563025551786,9.00177610956217
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="00C7DAA9B63ABEDFDB2C">
+      <name>Quadrado em novo méxico</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-105.682840000856</longitude>
+        <latitude>32.0468609996114</latitude>
+        <altitude>1554.57480671642</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>399.874221555947</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -105.682665605771,32.0467438803728,1554.54578211352
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0E820373AE3ABEE24957">
+      <name>Mission Wrap-up</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div><a href="https://forgottenlanguages-full.forgottenlanguages.org/search?q=Mission+Wrap-up">https://forgottenlanguages-full.forgottenlanguages.org/search?q=Mission+Wrap-up</a><br></div>]]></description>
+      <LookAt>
+        <longitude>-178.110999999095</longitude>
+        <latitude>-18.177999999113</latitude>
+        <altitude>-8.53493099348236</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>798.418234329438</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -178.110976102952,-18.1779659431249,-8.53684606101989
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="049551D9B13ABEE3D3AC">
+      <name>Cassini Diskus</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>64.605516971065</longitude>
+        <latitude>35.5266825661267</latitude>
+        <altitude>2073.14472755592</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>281.212654152114</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          64.6054420779992,35.5265406136041,2072.27908751797
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0914ECFC8C3ABEE80854">
+      <name> AfC Recovery Point</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div><a href="https://forgottenlanguages-full.forgottenlanguages.org/search?q=+AfC+Recovery+Point">https://forgottenlanguages-full.forgottenlanguages.org/search?q=+AfC+Recovery+Point</a><br></div>]]></description>
+      <LookAt>
+        <longitude>48.7764190000075</longitude>
+        <latitude>67.5122060001476</latitude>
+        <altitude>53.7085254131662</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>1289.45403342485</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          48.7764381830701,67.5122757028548,53.2556291532747
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0F728EA79B3ABEEA5629">
+      <name><![CDATA["Presence" (ISR over +32.649542, +79.677849)]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div><a href="https://forgottenlanguages-full.forgottenlanguages.org/search?q=%2B32.649542%2C+%2B79.677849">https://forgottenlanguages-full.forgottenlanguages.org/search?q=%2B32.649542%2C+%2B79.677849</a><br></div>]]></description>
+      <LookAt>
+        <longitude>79.6774027729982</longitude>
+        <latitude>32.6497388061902</latitude>
+        <altitude>4433.9174953464</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>4847.82556956459</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          79.6780238457095,32.649780090829,4439.75387681846
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="035D2813A43ABEEB40A9">
+      <name>S17E</name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div><a href="https://forgottenlanguages-full.forgottenlanguages.org/search?q=S17E">https://forgottenlanguages-full.forgottenlanguages.org/search?q=S17E</a><br></div>]]></description>
+      <LookAt>
+        <longitude>48.7827780001316</longitude>
+        <latitude>67.5112090000259</latitude>
+        <altitude>63.7289031787308</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>95.5921668722749</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          48.7827851065822,67.5112098155368,63.7453635069042
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="09CC06D5903ABEEE5546">
+      <name>Arte pré-histórica aqui</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-105.644646086965</longitude>
+        <latitude>32.0341768638293</latitude>
+        <altitude>1721.83321569194</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>4652.19587656204</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -105.637087462896,32.0326056166858,2023.20764637842
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0D2382251B3AC1885DA8">
+      <name><![CDATA[Cassini Diskus - "Presence"]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[<div><a href="https://forgottenlanguages-full.forgottenlanguages.org/2025/09/cassini-diskus-presence-345005s-235539w.html">https://forgottenlanguages-full.forgottenlanguages.org/2025/09/cassini-diskus-presence-345005s-235539w.html</a><br></div>]]></description>
+      <LookAt>
+        <longitude>-23.9274999831306</longitude>
+        <latitude>-34.8347221885309</latitude>
+        <altitude>-9.86021500503024</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>679.700947976744</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -23.9274529010811,-34.8347241203671,-9.88116547673297
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
