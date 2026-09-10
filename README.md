@@ -48,7 +48,7 @@ Example:
 generate_rules.py (Statistical System)
 - Reads Codex, learns new rules, saves rules on the codex.
 
-    python generate_rules.py [source_lang]
+        python generate_rules.py [source_lang]
 
 Example:
     python generate_rules.py nymma
